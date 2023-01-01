@@ -343,7 +343,7 @@ var menah = {};
       3: [
         function (geffrey, audrea, mardina) {
           var parveen = geffrey("./../common/DataDomeTools"),
-            xanden = function (sivana) {
+            xanden = function (jsData) {
               function briget() {
                 return (
                   -1 ===
@@ -367,12 +367,12 @@ var menah = {};
               }
               function shuntell() {
                 return !!(
-                  sivana['cfpp'] ||
-                  sivana.slat ||
-                  sivana.cfcpw ||
-                  sivana.cffpw ||
-                  sivana['cffrb'] ||
-                  sivana['cfse']
+                  jsData['cfpp'] ||
+                  jsData.slat ||
+                  jsData.cfcpw ||
+                  jsData.cffpw ||
+                  jsData['cffrb'] ||
+                  jsData['cfse']
                 );
               }
               function areej(raelyne) {
@@ -414,7 +414,7 @@ var menah = {};
                         return (
                           (zorria.vd = mialyn),
                           (zorria.rd = shailin),
-                          ((sivana['tagpu'] = performance.now() - shria),
+                          ((jsData['tagpu'] = performance.now() - shria),
                           zorria)
                         );
                       } catch (jadiah) {
@@ -422,7 +422,7 @@ var menah = {};
                         return (
                           (zariha.vd = "NA"),
                           (zariha.rd = "NA"),
-                          ((sivana.tagpu = "NA"), zariha)
+                          ((jsData.tagpu = "NA"), zariha)
                         );
                       }
                     return {};
@@ -479,67 +479,67 @@ var menah = {};
                     this.asynchronizeTask(this.dd_b),
                     this.asynchronizeTask(this.dd_c),
                     this.asynchronizeTask(this['dd_d']),
-                    this['asynchronizeTask'](this['dd_e']),
+                    this.asynchronizeTask(this['dd_e']),
                     this.asynchronizeTask(this.dd_f),
-                    this['asynchronizeTask'](this['dd_g']),
+                    this.asynchronizeTask(this['dd_g']),
                     this.asynchronizeTask(this['dd_h']),
                     this.asynchronizeTask(this.dd_i),
-                    this['asynchronizeTask'](this['dd_j']),
+                    this.asynchronizeTask(this.dd_j),
                     this.asynchronizeTask(this.dd_k),
                     this.asynchronizeTask(this.dd_l),
                     this.asynchronizeTask(this['dd_m']),
                     this.asynchronizeTask(this.dd_n),
                     this.asynchronizeTask(this.dd_o),
                     this.asynchronizeTask(this['dd_p']),
-                    this['asynchronizeTask'](this['dd_q']),
+                    this.asynchronizeTask(this['dd_q']),
                     this.asynchronizeTask(this.dd_r),
-                    this['asynchronizeTask'](this.dd_s),
+                    this.asynchronizeTask(this.dd_s),
                     this.asynchronizeTask(this['dd_t']),
-                    this['asynchronizeTask'](this.dd_u),
+                    this.asynchronizeTask(this.dd_u),
                     this.asynchronizeTask(this.dd_v),
                     this.asynchronizeTask(this.dd_w),
                     this.asynchronizeTask(this.dd_x),
-                    this['asynchronizeTask'](this['dd_y']),
+                    this.asynchronizeTask(this['dd_y']),
                     this.asynchronizeTask(this['dd_z']),
-                    this['asynchronizeTask'](this['dd_A']),
+                    this.asynchronizeTask(this['dd_A']),
                     this.asynchronizeTask(this.dd_B),
                     this.asynchronizeTask(this.dd_C),
-                    this['asynchronizeTask'](this['dd_D']),
+                    this.asynchronizeTask(this['dd_D']),
                     this.asynchronizeTask(this['dd_E']),
-                    this['asynchronizeTask'](this['dd_F']),
-                    this['asynchronizeTask'](this.dd_G),
+                    this.asynchronizeTask(this['dd_F']),
+                    this.asynchronizeTask(this.dd_G),
                     this.asynchronizeTask(this['dd_H']),
                     this.asynchronizeTask(this['dd_I']),
                     this.asynchronizeTask(this.dd_J),
                     this.asynchronizeTask(this['dd_K']),
                     this.asynchronizeTask(this.dd_L),
                     this.asynchronizeTask(this['dd_M']),
-                    this['asynchronizeTask'](this.dd_N),
+                    this.asynchronizeTask(this.dd_N),
                     this.asynchronizeTask(this.dd_O),
                     this.asynchronizeTask(this.dd_P),
-                    this['asynchronizeTask'](this['dd_Q']),
-                    this['asynchronizeTask'](this['dd_R']),
+                    this.asynchronizeTask(this['dd_Q']),
+                    this.asynchronizeTask(this['dd_R']),
                     this.asynchronizeTask(this.dd_S),
-                    this['asynchronizeTask'](this.dd_T),
+                    this.asynchronizeTask(this.dd_T),
                     this.asynchronizeTask(this.dd_U),
-                    this['asynchronizeTask'](this.dd_V),
-                    this['asynchronizeTask'](this['dd_W']),
+                    this.asynchronizeTask(this.dd_V),
+                    this.asynchronizeTask(this['dd_W']),
                     this.asynchronizeTask(this['dd_X']),
                     this.asynchronizeTask(this.dd_Y),
                     briget() &&
                       (this.asynchronizeTask(this.dd_Z),
-                      this['asynchronizeTask'](this['dd_aa']),
-                      this['asynchronizeTask'](this.dd_ab),
-                      this['asynchronizeTask'](this['dd_ac'])),
+                      this.asynchronizeTask(this['dd_aa']),
+                      this.asynchronizeTask(this.dd_ab),
+                      this.asynchronizeTask(this['dd_ac'])),
                     ("captcha" != window['dataDomeOptions']['ddResponsePage'] &&
                       "AC9068D07C83EF920E0EB4CAB79979" !== window.ddjskey) ||
                       ('8FE0CF7F8AB30EC588599D8046ED0E' != window['ddjskey'] &&
                         '1F633CDD8EF22541BD6D9B1B8EF13A' !== window.ddjskey &&
-                        this['asynchronizeTask'](this['dd_ad'])),
+                        this.asynchronizeTask(this['dd_ad'])),
                     '05B30BD9055986BD2EE8F5A199D973' === window.ddjskey &&
                       this.asynchronizeTask(this.dd_ae),
                     "2211F522B61E269B869FA6EAFFB5E1" === window.ddjskey &&
-                      this['asynchronizeTask'](this.dd_af);
+                      this.asynchronizeTask(this.dd_af);
                 }),
                 (this.asynchronizeTask = function (
                   aubreyann,
@@ -548,13 +548,13 @@ var menah = {};
                 ) {
                   var myrtes = this;
                   setTimeout(function () {
-                    sivana['ttst'] || (sivana.ttst = 0);
+                    jsData['ttst'] || (jsData.ttst = 0);
                     var hubbie = performance['now']();
                     try {
                       aubreyann.call(myrtes, klariza);
                     } catch (arhab) {
                     } finally {
-                      sivana['ttst'] += performance.now() - hubbie;
+                      jsData['ttst'] += performance.now() - hubbie;
                     }
                   }, julieanna);
                 }),
@@ -572,12 +572,12 @@ var menah = {};
                     try {
                       var eyad = madilene.stack.split("\n");
                       eyad.length >= 2
-                        ? (sivana['ifov'] = !!eyad[1].match(
+                        ? (jsData['ifov'] = !!eyad[1].match(
                             /Ob[cej]{3}t\.a[lp]{3}y[\(< ]{3}an[oynm]{5}us>/
                           ))
-                        : (sivana.ifov = "e1");
+                        : (jsData.ifov = "e1");
                     } catch (elizia) {
-                      sivana['ifov'] = "e2";
+                      jsData['ifov'] = "e2";
                     }
                   }
                 }),
@@ -601,18 +601,18 @@ var menah = {};
                     var luevina = window.navigator['platform'],
                       satine = ryser.platform;
                     satine !== luevina &&
-                      (sivana.dil = graciee(satine + "__" + luevina));
+                      (jsData.dil = graciee(satine + "__" + luevina));
                   } catch (moniece) {}
                 }),
                 (this.dd_c = function () {
                   var adraya = shafeeq(window);
-                  (sivana['glvd'] = adraya.glvd),
-                    (sivana.glrd = adraya['glrd']),
-                    (sivana.hc = adraya.hc),
-                    (sivana['br_oh'] = adraya.br_oh),
-                    (sivana['br_ow'] = adraya.br_ow),
-                    (sivana.ua = adraya.ua),
-                    (sivana['wbd'] = adraya.wbd);
+                  (jsData['glvd'] = adraya.glvd),
+                    (jsData.glrd = adraya['glrd']),
+                    (jsData.hc = adraya.hc),
+                    (jsData['br_oh'] = adraya.br_oh),
+                    (jsData['br_ow'] = adraya.br_ow),
+                    (jsData.ua = adraya.ua),
+                    (jsData['wbd'] = adraya.wbd);
                   try {
                     function hasim(tajiddin, terrijo) {
                       var britt = [],
@@ -628,16 +628,16 @@ var menah = {};
                     }
                     var antwana = hasim(this.o, adraya);
                     antwana.keysDelta &&
-                      ((sivana.sivd = antwana['keysDelta']),
-                      (sivana['log2'] = graciee(
+                      ((jsData.sivd = antwana['keysDelta']),
+                      (jsData['log2'] = graciee(
                         antwana.deltaVals.slice(0, 300)
                       )));
                     var nevayiah = edda(this.i.contentWindow),
                       bilguun = hasim(this.h, nevayiah);
                     bilguun['keysDelta'] &&
-                      (sivana['sird'] = bilguun.keysDelta);
+                      (jsData['sird'] = bilguun.keysDelta);
                   } catch (classy) {
-                    sivana['log1'] = graciee(classy.message);
+                    jsData['log1'] = graciee(classy.message);
                   }
                 }),
                 (this.dd_v = function () {
@@ -667,12 +667,12 @@ var menah = {};
                     return false;
                   }
                   window.chrome ||
-                    ((sivana.hcovdr = false),
-                    (sivana.plovdr = false),
-                    (sivana.ftsovdr = false),
-                    (sivana.hcovdr2 = false),
-                    (sivana.plovdr2 = false),
-                    (sivana.ftsovdr2 = false));
+                    ((jsData.hcovdr = false),
+                    (jsData.plovdr = false),
+                    (jsData.ftsovdr = false),
+                    (jsData.hcovdr2 = false),
+                    (jsData.plovdr2 = false),
+                    (jsData.ftsovdr2 = false));
                   try {
                     var florestela = audie(
                       Object.getOwnPropertyDescriptor(
@@ -680,38 +680,38 @@ var menah = {};
                         "hardwareConcurrency"
                       ).get
                     );
-                    (sivana.hcovdr = kaeston(florestela)),
-                      (sivana.hcovdr2 = cadijah(florestela));
+                    (jsData.hcovdr = kaeston(florestela)),
+                      (jsData.hcovdr2 = cadijah(florestela));
                   } catch (alayzha) {
-                    (sivana['hcovdr'] = false), (sivana.hcovdr2 = false);
+                    (jsData['hcovdr'] = false), (jsData.hcovdr2 = false);
                   }
                   try {
                     var dauna = audie(
                       Object['getOwnPropertyDescriptor'](navigator.__proto__, "platform").get
                     );
-                    (sivana.plovdr = kaeston(dauna)),
-                      (sivana.plovdr2 = cadijah(dauna));
+                    (jsData.plovdr = kaeston(dauna)),
+                      (jsData.plovdr2 = cadijah(dauna));
                   } catch (chery) {
-                    (sivana['plovdr'] = false), (sivana.plovdr2 = false);
+                    (jsData['plovdr'] = false), (jsData.plovdr2 = false);
                   }
                   try {
                     var kristijan = audie(Function['prototype']['toString']);
-                    (sivana['ftsovdr'] = kaeston(kristijan)),
-                      (sivana.ftsovdr2 = cadijah(kristijan));
+                    (jsData['ftsovdr'] = kaeston(kristijan)),
+                      (jsData.ftsovdr2 = cadijah(kristijan));
                   } catch (nevan) {
-                    (sivana['ftsovdr'] = false),
-                      (sivana['ftsovdr2'] = false);
+                    (jsData['ftsovdr'] = false),
+                      (jsData['ftsovdr2'] = false);
                   }
                 }),
                 (this.dd_d = function () {
                   try {
                     var rueben = this.i;
-                    (sivana.wdif =
+                    (jsData.wdif =
                       !!rueben['contentWindow'].navigator['webdriver']),
-                      (sivana.wdifrm =
+                      (jsData.wdifrm =
                         rueben['contentWindow'] === window ||
                         rueben.contentWindow.setTimeout === window.setTimeout),
-                      (sivana.iwgl =
+                      (jsData.iwgl =
                         rueben.contentWindow.self &&
                         rueben.contentWindow['self'].get &&
                         rueben.contentWindow['self']['get'][
@@ -721,52 +721,52 @@ var menah = {};
                           'toString'
                         ]()['length']);
                   } catch (trilby) {
-                    sivana.wdif = "err";
+                    jsData.wdif = "err";
                   }
                 }),
                 (this['dd_g'] = function () {
-                  (sivana.br_h = Math['max'](
+                  (jsData.br_h = Math['max'](
                     document['documentElement']['clientHeight'],
                     window.innerHeight || 0
                   )),
-                    (sivana.br_w = Math.max(
+                    (jsData.br_w = Math.max(
                       document.documentElement.clientWidth,
                       window.innerWidth || 0
                     ));
                 }),
                 (this['dd_i'] = function () {
-                  (sivana['rs_h'] = window.screen.height),
-                    (sivana['rs_w'] = window['screen']['width']),
-                    (sivana.rs_cd = window['screen'].colorDepth);
+                  (jsData['rs_h'] = window.screen.height),
+                    (jsData['rs_w'] = window['screen']['width']),
+                    (jsData.rs_cd = window['screen'].colorDepth);
                 }),
                 (this['dd_ab'] = function () {
                   try {
                     var cheronda = document.createElement("canvas");
-                    sivana.cvs = !(
+                    jsData.cvs = !(
                       !cheronda['getContext'] || !cheronda['getContext']("2d")
                     );
                   } catch (melna) {
-                    sivana.cvs = false;
+                    jsData.cvs = false;
                   }
                 }),
-                (this['dd_j'] = function () {
-                  sivana.phe = !(!window['callPhantom'] && !window['_phantom']);
+                (this.dd_j = function () {
+                  jsData.phe = !(!window['callPhantom'] && !window['_phantom']);
                 }),
                 (this.dd_k = function () {
-                  sivana.nm = !!window.__nightmare;
+                  jsData.nm = !!window.__nightmare;
                 }),
                 (this['dd_l'] = function () {
-                  (sivana['jsf'] = false),
+                  (jsData['jsf'] = false),
                     (!Function['prototype'].bind ||
                       (Function.prototype.bind['toString']().replace(
                         /bind/g,
                         'Error'
                       ) != Error.toString() &&
                         void 0 === window.Prototype)) &&
-                      (sivana['jsf'] = true);
+                      (jsData['jsf'] = true);
                 }),
                 (this.dd_n = function () {
-                  sivana.lg =
+                  jsData.lg =
                     navigator.language ||
                     navigator.userLanguage ||
                     navigator['browserLanguage'] ||
@@ -774,57 +774,57 @@ var menah = {};
                     "";
                 }),
                 (this.dd_o = function () {
-                  sivana.pr = window.devicePixelRatio || 'unknown';
+                  jsData.pr = window.devicePixelRatio || 'unknown';
                 }),
                 (this['dd_q'] = function () {
-                  (sivana.ars_h = screen['availHeight'] || 0),
-                    (sivana['ars_w'] = screen.availWidth || 0);
+                  (jsData.ars_h = screen['availHeight'] || 0),
+                    (jsData['ars_w'] = screen.availWidth || 0);
                 }),
                 (this.dd_r = function () {
-                  sivana.tz = new Date().getTimezoneOffset();
+                  jsData.tz = new Date().getTimezoneOffset();
                 }),
                 (this['dd_aa'] = function () {
-                  (sivana.tzp = "NA"),
+                  (jsData.tzp = "NA"),
                     window.Intl &&
                       Intl.DateTimeFormat &&
                       'function' ==
                         typeof Intl.DateTimeFormat.prototype['resolvedOptions'] &&
-                      (sivana.tzp =
+                      (jsData.tzp =
                         Intl.DateTimeFormat().resolvedOptions().timeZone ||
                         "NA");
                 }),
                 (this.dd_s = function () {
                   try {
-                    sivana.str_ss = !!window.sessionStorage;
+                    jsData.str_ss = !!window.sessionStorage;
                   } catch (roslynn) {
-                    sivana.str_ss = "NA";
+                    jsData.str_ss = "NA";
                   }
                   try {
-                    sivana.str_ls = !!window['localStorage'];
+                    jsData.str_ls = !!window['localStorage'];
                   } catch (chrissean) {
-                    sivana.str_ls = "NA";
+                    jsData.str_ls = "NA";
                   }
                   try {
-                    sivana['str_idb'] = !!window['indexedDB'];
+                    jsData['str_idb'] = !!window['indexedDB'];
                   } catch (treon) {
-                    sivana.str_idb = "NA";
+                    jsData.str_idb = "NA";
                   }
                   try {
-                    sivana.str_odb = !!window['openDatabase'];
+                    jsData.str_odb = !!window['openDatabase'];
                   } catch (braxtin) {
-                    sivana['str_odb'] = "NA";
+                    jsData['str_odb'] = "NA";
                   }
                 }),
                 (this['dd_t'] = function () {
                   try {
                     if (
-                      ((sivana.plgod = false),
-                      (sivana.plg = navigator.plugins.length),
-                      (sivana.plgne = "NA"),
-                      (sivana.plgre = "NA"),
-                      (sivana.plgof = "NA"),
-                      (sivana.plggt = "NA"),
-                      (sivana.plgod = !!Object.getOwnPropertyDescriptor(
+                      ((jsData.plgod = false),
+                      (jsData.plg = navigator.plugins.length),
+                      (jsData.plgne = "NA"),
+                      (jsData.plgre = "NA"),
+                      (jsData.plgof = "NA"),
+                      (jsData.plggt = "NA"),
+                      (jsData.plgod = !!Object.getOwnPropertyDescriptor(
                         navigator,
                         "plugins"
                       )),
@@ -835,19 +835,19 @@ var menah = {};
                       try {
                         navigator['plugins'][0].length;
                       } catch (milkias) {
-                        sivana.plgod = true;
+                        jsData.plgod = true;
                       }
                       try {
-                        (sivana['plgne'] =
+                        (jsData['plgne'] =
                           navigator.plugins[0].name ===
                           navigator.plugins[0][0].enabledPlugin.name),
-                          (sivana['plgre'] =
+                          (jsData['plgre'] =
                             navigator.plugins[0][0].enabledPlugin ===
                             navigator.plugins[0]),
-                          (sivana.plgof =
+                          (jsData.plgof =
                             navigator.plugins.item(859523698994125) ===
                             navigator.plugins[0]),
-                          (sivana.plggt =
+                          (jsData.plggt =
                             Object.getOwnPropertyDescriptor(
                               navigator.__proto__,
                               "plugins"
@@ -855,24 +855,24 @@ var menah = {};
                               ['get'].toString()
                               .indexOf("return") > -1);
                       } catch (daven) {
-                        (sivana['plgne'] = "err"),
-                          (sivana.plgre = "err"),
-                          (sivana.plgof = 'err'),
-                          (sivana.plggt = "err");
+                        (jsData['plgne'] = "err"),
+                          (jsData.plgre = "err"),
+                          (jsData.plgof = 'err'),
+                          (jsData.plggt = "err");
                       }
                     }
                   } catch (luell) {
-                    sivana['plg'] = 0;
+                    jsData['plg'] = 0;
                   }
                 }),
                 (this.dd_u = function () {
-                  sivana.pltod = !!Object.getOwnPropertyDescriptor(
+                  jsData.pltod = !!Object.getOwnPropertyDescriptor(
                     navigator,
                     'platform'
                   );
                 }),
                 (this['dd_w'] = function () {
-                  sivana.lb = false;
+                  jsData.lb = false;
                   var itzany,
                     daishanay = navigator.userAgent['toLowerCase']();
                   ("Chrome" !==
@@ -892,9 +892,9 @@ var menah = {};
                     "Safari" !== itzany &&
                     "Opera" !== itzany) ||
                     "20030107" === navigator['productSub'] ||
-                    (sivana.lb = true);
+                    (jsData.lb = true);
                   var emberlei = eval['toString']()['length'];
-                  (sivana.eva = emberlei),
+                  (jsData.eva = emberlei),
                     ((37 === emberlei &&
                       "Safari" !== itzany &&
                       "Firefox" !== itzany &&
@@ -906,10 +906,10 @@ var menah = {};
                         'Chrome' !== itzany &&
                         "Opera" !== itzany &&
                         'Other' !== itzany)) &&
-                      (sivana.lb = true);
+                      (jsData.lb = true);
                 }),
                 (this.dd_x = function () {
-                  sivana.lo = false;
+                  jsData.lo = false;
                   var nafiso,
                     diya = navigator.userAgent.toLowerCase(),
                     jamyrie = navigator['oscpu'],
@@ -936,7 +936,7 @@ var menah = {};
                       'Android' !== nafiso &&
                       "iOS" !== nafiso &&
                       "Other" !== nafiso &&
-                      (sivana.lo = true),
+                      (jsData.lo = true),
                     void 0 !== jamyrie &&
                       (((jamyrie = jamyrie['toLowerCase']())['indexOf'](
                         'win'
@@ -953,7 +953,7 @@ var menah = {};
                           0 === jamyrie.indexOf("linux") &&
                           jamyrie['indexOf']('mac') >= 0 &&
                           "other" !== nafiso)) &&
-                      (sivana.lo = true),
+                      (jsData.lo = true),
                     ((nyanna.indexOf("win") >= 0 &&
                       'Windows' !== nafiso &&
                       'Windows Phone' !== nafiso) ||
@@ -972,40 +972,40 @@ var menah = {};
                         0 === nyanna.indexOf('linux') &&
                         nyanna['indexOf']("mac") >= 0 &&
                         "other" !== nafiso)) &&
-                      (sivana.lo = true),
+                      (jsData.lo = true),
                     void 0 === navigator['plugins'] &&
                       'Windows' !== nafiso &&
                       "Windows Phone" !== nafiso &&
-                      (sivana.lo = true);
+                      (jsData.lo = true);
                 }),
                 (this['dd_y'] = function () {
-                  sivana['ts_mtp'] =
+                  jsData['ts_mtp'] =
                     navigator['maxTouchPoints'] ||
                     navigator.msMaxTouchPoints ||
                     0;
                   try {
                     document['createEvent']('TouchEvent'),
-                      (sivana['ts_tec'] = true);
+                      (jsData['ts_tec'] = true);
                   } catch (danyalle) {
-                    sivana.ts_tec = false;
+                    jsData.ts_tec = false;
                   }
-                  sivana.ts_tsa = "ontouchstart" in window;
+                  jsData.ts_tsa = "ontouchstart" in window;
                 }),
                 (this['dd_ac'] = function () {
                   window.navigator.usb
-                    ? (sivana.usb = "defined")
-                    : (sivana.usb = "NA");
+                    ? (jsData.usb = "defined")
+                    : (jsData.usb = "NA");
                 }),
                 (this['dd_z'] = function () {
-                  sivana.vnd = window['navigator'].vendor;
+                  jsData.vnd = window['navigator'].vendor;
                 }),
                 (this.dd_A = function () {
-                  sivana['bid'] = window.navigator.buildID || "NA";
+                  jsData['bid'] = window.navigator.buildID || "NA";
                 }),
                 (this.dd_B = function () {
                   if (window.navigator.mimeTypes) {
                     if (0 == window.navigator.mimeTypes.length)
-                      sivana.mmt = "empty";
+                      jsData.mmt = "empty";
                     else {
                       for (
                         var kastle = [], sacha = 0;
@@ -1015,14 +1015,14 @@ var menah = {};
                         kastle['push'](
                           window.navigator['mimeTypes'][sacha].type
                         );
-                      sivana.mmt = kastle.join();
+                      jsData.mmt = kastle.join();
                     }
-                  } else sivana.mmt = "NA";
+                  } else jsData.mmt = "NA";
                 }),
                 (this.dd_C = function () {
                   if (window.navigator['plugins']) {
                     if (0 == window['navigator'].plugins.length)
-                      sivana.plu = 'empty';
+                      jsData.plu = 'empty';
                     else {
                       for (
                         var kesten = [], hila = 0;
@@ -1030,153 +1030,153 @@ var menah = {};
                         hila++
                       )
                         kesten.push(window['navigator'].plugins[hila].name);
-                      sivana.plu = kesten.join();
+                      jsData.plu = kesten.join();
                     }
-                  } else sivana['plu'] = "NA";
+                  } else jsData['plu'] = "NA";
                 }),
                 (this.dd_D = function () {
-                  sivana.hdn = !!document.hidden;
+                  jsData.hdn = !!document.hidden;
                 }),
                 (this['dd_E'] = function () {
-                  sivana.awe = !!window['awesomium'];
+                  jsData.awe = !!window['awesomium'];
                 }),
                 (this.dd_F = function () {
-                  sivana.geb = !!window.geb;
+                  jsData.geb = !!window.geb;
                 }),
                 (this.dd_G = function () {
-                  sivana.dat =
+                  jsData.dat =
                     "domAutomation" in window ||
                     "domAutomationController" in window;
                 }),
                 (this['dd_H'] = function () {
                   window.navigator['mediaDevices']
-                    ? (sivana['med'] = "defined")
-                    : (sivana.med = "NA");
+                    ? (jsData['med'] = "defined")
+                    : (jsData.med = "NA");
                 }),
                 (this['dd_I'] = function () {
                   try {
                     var katielyn = document.createElement('audio'),
                       lamel = MediaSource || WebKitMediaSource;
-                    (sivana.aco = katielyn.canPlayType('audio/ogg; codecs="vorbis"')),
-                      (sivana['acots'] = lamel['isTypeSupported'](
+                    (jsData.aco = katielyn.canPlayType('audio/ogg; codecs="vorbis"')),
+                      (jsData['acots'] = lamel['isTypeSupported'](
                         'audio/ogg; codecs="vorbis"'
                       )),
-                      (sivana.acmp = katielyn.canPlayType('audio/mpeg;')),
-                      (sivana.acmpts = lamel.isTypeSupported('audio/mpeg;"')),
-                      (sivana.acw = katielyn.canPlayType('audio/wav; codecs="1"')),
-                      (sivana.acwts = lamel.isTypeSupported(
+                      (jsData.acmp = katielyn.canPlayType('audio/mpeg;')),
+                      (jsData.acmpts = lamel.isTypeSupported('audio/mpeg;"')),
+                      (jsData.acw = katielyn.canPlayType('audio/wav; codecs="1"')),
+                      (jsData.acwts = lamel.isTypeSupported(
                         'audio/wav; codecs="1"'
                       )),
-                      (sivana.acma = katielyn.canPlayType('audio/x-m4a;')),
-                      (sivana.acmats = lamel.isTypeSupported("audio/x-m4a;")),
-                      (sivana.acaa = katielyn.canPlayType('audio/aac;')),
-                      (sivana.acaats = lamel.isTypeSupported('audio/aac;')),
-                      (sivana.ac3 = katielyn.canPlayType("audio/3gpp;")),
-                      (sivana.ac3ts = lamel.isTypeSupported("audio/3gpp;")),
-                      (sivana.acf = katielyn.canPlayType("audio/flac;")),
-                      (sivana.acfts = lamel['isTypeSupported']("audio/flac;")),
-                      (sivana['acmp4'] = katielyn.canPlayType('audio/mp4;')),
-                      (sivana.acmp4ts = lamel.isTypeSupported("audio/mp4;")),
-                      (sivana.acmp3 = katielyn.canPlayType('audio/mp3;')),
-                      (sivana.acmp3ts = lamel.isTypeSupported('audio/mp3;')),
-                      (sivana.acwm = katielyn['canPlayType']("audio/webm;")),
-                      (sivana.acwmts = lamel.isTypeSupported("audio/webm;")),
-                      (sivana['ocpt'] =
+                      (jsData.acma = katielyn.canPlayType('audio/x-m4a;')),
+                      (jsData.acmats = lamel.isTypeSupported("audio/x-m4a;")),
+                      (jsData.acaa = katielyn.canPlayType('audio/aac;')),
+                      (jsData.acaats = lamel.isTypeSupported('audio/aac;')),
+                      (jsData.ac3 = katielyn.canPlayType("audio/3gpp;")),
+                      (jsData.ac3ts = lamel.isTypeSupported("audio/3gpp;")),
+                      (jsData.acf = katielyn.canPlayType("audio/flac;")),
+                      (jsData.acfts = lamel['isTypeSupported']("audio/flac;")),
+                      (jsData['acmp4'] = katielyn.canPlayType('audio/mp4;')),
+                      (jsData.acmp4ts = lamel.isTypeSupported("audio/mp4;")),
+                      (jsData.acmp3 = katielyn.canPlayType('audio/mp3;')),
+                      (jsData.acmp3ts = lamel.isTypeSupported('audio/mp3;')),
+                      (jsData.acwm = katielyn['canPlayType']("audio/webm;")),
+                      (jsData.acwmts = lamel.isTypeSupported("audio/webm;")),
+                      (jsData['ocpt'] =
                         -1 ===
                         katielyn.canPlayType.toString().indexOf("canPlayType"));
                   } catch (rowrenia) {
-                    (sivana.aco = "NA"),
-                      (sivana.acmp = "NA"),
-                      (sivana.acw = "NA"),
-                      (sivana['acma'] = "NA"),
-                      (sivana.acaa = "NA"),
-                      (sivana['ac3'] = "NA"),
-                      (sivana['acf'] = "NA"),
-                      (sivana['acmp4'] = "NA"),
-                      (sivana['acmp3'] = "NA"),
-                      (sivana['acwm'] = "NA"),
-                      (sivana.acots = "NA"),
-                      (sivana.acmpts = "NA"),
-                      (sivana.acwts = "NA"),
-                      (sivana['acmats'] = "NA"),
-                      (sivana.acaats = "NA"),
-                      (sivana.ac3ts = "NA"),
-                      (sivana.acfts = "NA"),
-                      (sivana.acmp4ts = "NA"),
-                      (sivana.acmp3ts = "NA"),
-                      (sivana['acwmts'] = "NA");
+                    (jsData.aco = "NA"),
+                      (jsData.acmp = "NA"),
+                      (jsData.acw = "NA"),
+                      (jsData['acma'] = "NA"),
+                      (jsData.acaa = "NA"),
+                      (jsData['ac3'] = "NA"),
+                      (jsData['acf'] = "NA"),
+                      (jsData['acmp4'] = "NA"),
+                      (jsData['acmp3'] = "NA"),
+                      (jsData['acwm'] = "NA"),
+                      (jsData.acots = "NA"),
+                      (jsData.acmpts = "NA"),
+                      (jsData.acwts = "NA"),
+                      (jsData['acmats'] = "NA"),
+                      (jsData.acaats = "NA"),
+                      (jsData.ac3ts = "NA"),
+                      (jsData.acfts = "NA"),
+                      (jsData.acmp4ts = "NA"),
+                      (jsData.acmp3ts = "NA"),
+                      (jsData['acwmts'] = "NA");
                   }
                 }),
                 (this.dd_J = function () {
                   try {
                     var leanda = document['createElement']("video"),
                       jenesha = MediaSource || WebKitMediaSource;
-                    (sivana.vco = leanda.canPlayType(
+                    (jsData.vco = leanda.canPlayType(
                       'video/ogg; codecs="theora"'
                     )),
-                      (sivana.vcots = jenesha['isTypeSupported'](
+                      (jsData.vcots = jenesha['isTypeSupported'](
                         'video/ogg; codecs="theora"'
                       )),
-                      (sivana.vch = leanda['canPlayType'](
+                      (jsData.vch = leanda['canPlayType'](
                         'video/mp4; codecs="avc1.42E01E"'
                       )),
-                      (sivana['vchts'] = jenesha['isTypeSupported'](
+                      (jsData['vchts'] = jenesha['isTypeSupported'](
                         'video/mp4; codecs="avc1.42E01E"'
                       )),
-                      (sivana['vcw'] = leanda.canPlayType(
+                      (jsData['vcw'] = leanda.canPlayType(
                         'video/webm; codecs="vp8, vorbis"'
                       )),
-                      (sivana['vcwts'] = jenesha.isTypeSupported(
+                      (jsData['vcwts'] = jenesha.isTypeSupported(
                         'video/webm; codecs="vp8, vorbis"'
                       )),
-                      (sivana.vc3 = leanda.canPlayType("video/3gpp;")),
-                      (sivana.vc3ts = jenesha['isTypeSupported']("video/3gpp;")),
-                      (sivana.vcmp = leanda.canPlayType('video/mpeg;')),
-                      (sivana['vcmpts'] =
+                      (jsData.vc3 = leanda.canPlayType("video/3gpp;")),
+                      (jsData.vc3ts = jenesha['isTypeSupported']("video/3gpp;")),
+                      (jsData.vcmp = leanda.canPlayType('video/mpeg;')),
+                      (jsData['vcmpts'] =
                         jenesha.isTypeSupported("video/mpeg")),
-                      (sivana.vcq = leanda.canPlayType('video/quicktime;')),
-                      (sivana.vcqts =
+                      (jsData.vcq = leanda.canPlayType('video/quicktime;')),
+                      (jsData.vcqts =
                         jenesha.isTypeSupported("video/quicktime;")),
-                      (sivana['vc1'] = leanda.canPlayType(
+                      (jsData['vc1'] = leanda.canPlayType(
                         'video/mp4; codecs="av01.0.08M.08"'
                       )),
-                      (sivana['vc1ts'] = jenesha.isTypeSupported(
+                      (jsData['vc1ts'] = jenesha.isTypeSupported(
                         'video/mp4; codecs="av01.0.08M.08"'
                       ));
                   } catch (onyxx) {
-                    (sivana['vco'] = "NA"),
-                      (sivana.vch = "NA"),
-                      (sivana.vcw = "NA"),
-                      (sivana['vc3'] = "NA"),
-                      (sivana.vcmp = "NA"),
-                      (sivana['vcq'] = "NA"),
-                      (sivana.vc1 = "NA"),
-                      (sivana['vcots'] = "NA"),
-                      (sivana.vchts = "NA"),
-                      (sivana.vcwts = "NA"),
-                      (sivana['vc3ts'] = "NA"),
-                      (sivana.vcmpts = "NA"),
-                      (sivana['vcqts'] = "NA"),
-                      (sivana.vc1ts = "NA");
+                    (jsData['vco'] = "NA"),
+                      (jsData.vch = "NA"),
+                      (jsData.vcw = "NA"),
+                      (jsData['vc3'] = "NA"),
+                      (jsData.vcmp = "NA"),
+                      (jsData['vcq'] = "NA"),
+                      (jsData.vc1 = "NA"),
+                      (jsData['vcots'] = "NA"),
+                      (jsData.vchts = "NA"),
+                      (jsData.vcwts = "NA"),
+                      (jsData['vc3ts'] = "NA"),
+                      (jsData.vcmpts = "NA"),
+                      (jsData['vcqts'] = "NA"),
+                      (jsData.vc1ts = "NA");
                   }
                 }),
                 (this.dd_K = function () {
-                  sivana.dvm = navigator.deviceMemory || "NA";
+                  jsData.dvm = navigator.deviceMemory || "NA";
                 }),
                 (this['dd_L'] = function () {
-                  sivana['sqt'] =
+                  jsData['sqt'] =
                     window.external &&
                     window.external.toString &&
                     window['external']['toString']().indexOf("Sequentum") > -1;
                 }),
                 (this.dd_M = function () {
                   try {
-                    sivana.so = window.screen.orientation['type'];
+                    jsData.so = window.screen.orientation['type'];
                   } catch (manhattan) {
                     try {
-                      sivana.so = window.screen.msOrientation;
+                      jsData.so = window.screen.msOrientation;
                     } catch (eliverto) {
-                      sivana.so = "NA";
+                      jsData.so = "NA";
                     }
                   }
                 }),
@@ -1187,26 +1187,26 @@ var menah = {};
                     'object' == typeof process.versions &&
                     process.versions['electron']) ||
                   window['close']['toString']().indexOf("ELECTRON") > -1
-                    ? (sivana.ecpc = true)
-                    : (sivana['ecpc'] = !!window['process']);
+                    ? (jsData.ecpc = true)
+                    : (jsData['ecpc'] = !!window['process']);
                 }),
                 (this.dd_Q = function () {
                   if (
-                    ((sivana['wdw'] = true),
+                    ((jsData['wdw'] = true),
                     navigator.userAgent.toLowerCase().indexOf("chrome") >= 0 &&
                       !window['chrome'] &&
-                      (sivana.wdw = false),
+                      (jsData.wdw = false),
                     window.chrome)
                   ) {
                     var tremica = "";
                     for (var allissa in window.chrome) tremica += allissa;
-                    sivana.cokys = graciee(tremica) + "L=";
+                    jsData.cokys = graciee(tremica) + "L=";
                   }
                 }),
                 (this.dd_Z = function () {
                   var sravani = {};
                   (sravani.name = "notifications"),
-                    ((sivana['prm'] = true),
+                    ((jsData['prm'] = true),
                     void 0 !== navigator['permissions'] &&
                       void 0 !== navigator.permissions['query'] &&
                       navigator.permissions
@@ -1215,13 +1215,13 @@ var menah = {};
                           "undefined" != typeof Notification &&
                             'denied' == Notification.permission &&
                             "prompt" == jayhden.state &&
-                            (sivana['prm'] = false);
+                            (jsData['prm'] = false);
                         })
                         .catch(function () {}));
                 }),
                 (this.dd_S = function () {
-                  (sivana.lgs = "" !== navigator['languages']),
-                    (sivana.lgsod = !!Object.getOwnPropertyDescriptor(
+                  (jsData.lgs = "" !== navigator['languages']),
+                    (jsData.lgsod = !!Object.getOwnPropertyDescriptor(
                       navigator,
                       "languages"
                     ));
@@ -1253,12 +1253,12 @@ var menah = {};
                           try {
                             var lenola =
                               arguments.callee['caller'].toString();
-                            (sivana.cfpfe = graciee(lenola.slice(0, 150))),
+                            (jsData.cfpfe = graciee(lenola.slice(0, 150))),
                               lenola['indexOf']('on(selector, wit') > -1 &&
-                                ((sivana.cffrb = true),
+                                ((jsData.cffrb = true),
                                 areej("asyncChallengeFinished"));
                           } catch (oscarjr) {
-                            sivana['cfpfe'] = graciee(
+                            jsData['cfpfe'] = graciee(
                               'Error: ' +
                                 oscarjr['message']['slice'](0, 150)
                             );
@@ -1268,7 +1268,7 @@ var menah = {};
                           } catch (doil) {
                             if ("string" != typeof doil.stack)
                               return jaivan.apply(this, arguments);
-                            sivana['stcfp'] = graciee(
+                            jsData['stcfp'] = graciee(
                               doil.stack.slice(-150)
                             );
                             var malloy = doil.stack.split("\n");
@@ -1278,7 +1278,7 @@ var menah = {};
                                   malloy.length > 1 &&
                                   kamahao['test'](malloy[2]);
                                 azsha &&
-                                  ((sivana['cfpp'] = true),
+                                  ((jsData['cfpp'] = true),
                                   areej('asyncChallengeFinished'));
                                 var karaleigh =
                                   malloy['length'] > 2 &&
@@ -1286,7 +1286,7 @@ var menah = {};
                                     malloy[malloy['length'] - 3]
                                   );
                                 karaleigh &&
-                                  ((sivana['cfcpw'] = true),
+                                  ((jsData['cfcpw'] = true),
                                   areej("asyncChallengeFinished"));
                                 var chijioke =
                                   malloy.length > 8 &&
@@ -1294,7 +1294,7 @@ var menah = {};
                                     malloy[malloy['length'] - 4]
                                   );
                                 chijioke &&
-                                  ((sivana.cfse = true), areej('asyncChallengeFinished'));
+                                  ((jsData.cfse = true), areej('asyncChallengeFinished'));
                               } catch (bam) {}
                             else {
                               if (averleigh)
@@ -1303,7 +1303,7 @@ var menah = {};
                                     malloy['length'] > 2 &&
                                     lewanda.test(malloy[malloy.length - 3]);
                                   destannie &&
-                                    ((sivana['cffpw'] = true),
+                                    ((jsData['cffpw'] = true),
                                     areej("asyncChallengeFinished"));
                                 } catch (vonnita) {}
                             }
@@ -1356,35 +1356,35 @@ var menah = {};
                           ' object could not be cloned.';
                         return viola.message != leshanta;
                       }
-                      sivana.npmtm = !!(
+                      jsData.npmtm = !!(
                         attica(navigator['plugins'], "PluginArray") ||
                         attica(navigator['plugins'][0], 'Plugin') ||
                         attica(navigator.mimeTypes, "MimeTypeArray") ||
                         attica(navigator['mimeTypes'][0], 'MimeType')
                       );
-                    } else sivana['npmtm'] = "noIframe";
-                  } else sivana.npmtm = "NA";
+                    } else jsData['npmtm'] = "noIframe";
+                  } else jsData.npmtm = "NA";
                 }),
                 (this['dd_U'] = function () {
-                  (sivana.psn =
+                  (jsData.psn =
                     !!window.PermissionStatus &&
                     window['PermissionStatus'].prototype['hasOwnProperty']("name")),
-                    (sivana.edp = !!window['EyeDropper']),
-                    (sivana['addt'] = !!window['AudioData']),
-                    (sivana.wsdc = !!window['WritableStreamDefaultController']),
-                    (sivana.ccsr = !!window['CSSCounterStyleRule']),
-                    (sivana.nuad = !!window.NavigatorUAData),
-                    (sivana['bcda'] = !!window.BarcodeDetector),
-                    (sivana['idn'] = !(
+                    (jsData.edp = !!window['EyeDropper']),
+                    (jsData['addt'] = !!window['AudioData']),
+                    (jsData.wsdc = !!window['WritableStreamDefaultController']),
+                    (jsData.ccsr = !!window['CSSCounterStyleRule']),
+                    (jsData.nuad = !!window.NavigatorUAData),
+                    (jsData['bcda'] = !!window.BarcodeDetector),
+                    (jsData['idn'] = !(
                       !window.Intl || !Intl.DisplayNames
                     )),
-                    (sivana.capi = !!(
+                    (jsData.capi = !!(
                       window.navigator &&
                       window['navigator'].contacts &&
                       window.navigator.ContactsManager
                     )),
-                    (sivana.svde = !!window['SVGDiscardElement']),
-                    (sivana.vpbq = !!(
+                    (jsData.svde = !!window['SVGDiscardElement']),
+                    (jsData.vpbq = !!(
                       window.HTMLVideoElement &&
                       window['HTMLVideoElement']['prototype'] &&
                       window.HTMLVideoElement.prototype.getVideoPlaybackQuality
@@ -1428,9 +1428,9 @@ var menah = {};
                   function floran(evalet) {
                     evalet &&
                       (shuntell()
-                        ? (sivana['slat'] = true)
-                        : ((sivana.slat = true),
-                          (sivana['slevt'] = true),
+                        ? (jsData['slat'] = true)
+                        : ((jsData.slat = true),
+                          (jsData['slevt'] = true),
                           areej('asyncChallengeFinished')));
                   }
                   if ("function" == typeof document.addEventListener) {
@@ -1458,7 +1458,7 @@ var menah = {};
                       !shuntell()
                     )
                       return (
-                        (sivana.slat = true),
+                        (jsData.slat = true),
                         void areej("asyncChallengeFinished")
                       );
                   var thys = setInterval(function () {
@@ -1473,7 +1473,7 @@ var menah = {};
                         !shuntell()
                       )
                         return (
-                          (sivana.slat = true),
+                          (jsData.slat = true),
                           areej("asyncChallengeFinished"),
                           void clearInterval(thys)
                         );
@@ -1495,7 +1495,7 @@ var menah = {};
                           !shuntell()
                         )
                           return (
-                            (sivana.slat = true),
+                            (jsData.slat = true),
                             areej("asyncChallengeFinished"),
                             void clearInterval(thys)
                           );
@@ -1513,8 +1513,8 @@ var menah = {};
                                   /[\d\w]{8}\-[\d\w]{4}\-[\d\w]{4}\-[\d\w]{4}\-[\d\w]{12}/
                                 ) &&
                                 (shuntell() ||
-                                  ((sivana.slmk = meliyah.slice(0, 64)),
-                                  (sivana['slat'] = true),
+                                  ((jsData.slmk = meliyah.slice(0, 64)),
+                                  (jsData['slat'] = true),
                                   areej('asyncChallengeFinished'),
                                   clearInterval(thys)));
                           }
@@ -1527,27 +1527,27 @@ var menah = {};
                   }, 1e4);
                 }),
                 (this.dd_W = function () {
-                  sivana.ucdv =
+                  jsData.ucdv =
                     "undefined" != typeof objectToInspect &&
                     null === objectToInspect &&
                     "undefined" != typeof result &&
                     !!result;
                 }),
                 (this['dd_X'] = function () {
-                  (sivana.spwn = !!window.spawn),
-                    (sivana.emt = !!window['emit']),
-                    (sivana.bfr = !!window.Buffer);
+                  (jsData.spwn = !!window.spawn),
+                    (jsData.emt = !!window['emit']),
+                    (jsData.bfr = !!window.Buffer);
                 }),
                 (this['dd_Y'] = function () {
                   void 0 !== window['console'] &&
                     "function" == typeof window.console['debug'] &&
-                    (sivana.dbov = !!("" + window['console'].debug)[
+                    (jsData.dbov = !!("" + window['console'].debug)[
                       'match'
                     ](/[\)\( ]{3}[>= ]{3}\{\n[ r]{9}etu[n r]{3}n[lu]{3}/));
                 }),
                 (this['dd_h'] = function () {
                   try {
-                    (sivana.nddc = (
+                    (jsData.nddc = (
                       document['cookie'].match(/datadome=/g) || []
                     ).length),
                       -1 ===
@@ -1559,11 +1559,11 @@ var menah = {};
                           "E425597ED9CAB7918B35EB23FEDF90",
                           "E425597ED9CAB7918B35EB23FEDF90",
                         ].indexOf(window.ddjskey) &&
-                        2 === sivana['nddc'] &&
+                        2 === jsData['nddc'] &&
                         window.location.href.indexOf("www.") > -1 &&
                         (document.cookie = "datadome=1; Max-Age=0; Path=/;");
                   } catch (kanisa) {
-                    sivana.nddc = "err";
+                    jsData.nddc = "err";
                   }
                 }),
                 (this.checkMousePosition = function () {
@@ -1573,9 +1573,9 @@ var menah = {};
                       if (
                         chrisangel &&
                         cloral['timeStamp'] &&
-                        (null === sivana.tbce || void 0 === sivana['tbce'])
+                        (null === jsData.tbce || void 0 === jsData['tbce'])
                       ) {
-                        sivana.tbce = parseInt(cloral.timeStamp - chrisangel);
+                        jsData.tbce = parseInt(cloral.timeStamp - chrisangel);
                         try {
                           this['dataDomeTools'].removeEventListener(
                             window,
@@ -1623,19 +1623,19 @@ var menah = {};
                           (gasper.clientY - aahaan.clientY) *
                             (gasper.clientY - aahaan.clientY)
                       );
-                      (!sivana['mm_md'] || lary > sivana.mm_md) &&
-                        (sivana.mm_md = parseInt(lary)),
+                      (!jsData['mm_md'] || lary > jsData.mm_md) &&
+                        (jsData.mm_md = parseInt(lary)),
                         (aahaan = gasper);
                     }
                   } else aahaan = gasper;
                   try {
-                    (sivana.mp_cx = jacody.clientX),
-                      (sivana.mp_cy = jacody['clientY']),
-                      (sivana['mp_tr'] = jacody.isTrusted),
-                      (sivana['mp_mx'] = jacody['movementX']),
-                      (sivana.mp_my = jacody.movementY),
-                      (sivana.mp_sx = jacody.screenX),
-                      (sivana.mp_sy = jacody['screenY']);
+                    (jsData.mp_cx = jacody.clientX),
+                      (jsData.mp_cy = jacody['clientY']),
+                      (jsData['mp_tr'] = jacody.isTrusted),
+                      (jsData['mp_mx'] = jacody['movementX']),
+                      (jsData.mp_my = jacody.movementY),
+                      (jsData.mp_sx = jacody.screenX),
+                      (jsData.mp_sy = jacody['screenY']);
                   } catch (praveer) {}
                 }),
                 (this['getInfoClick'] = function (xachary) {
@@ -1646,8 +1646,8 @@ var menah = {};
                         mykela.parentElement.href &&
                         mykela.parentElement.href.indexOf('alb.reddit') >
                           -1)) &&
-                      (xachary.isTrusted || (sivana.haent = true),
-                      sivana.nclad ? sivana.nclad++ : (sivana.nclad = 1),
+                      (xachary.isTrusted || (jsData.haent = true),
+                      jsData.nclad ? jsData.nclad++ : (jsData.nclad = 1),
                       areej("asyncChallengeFinished"));
                   } catch (norra) {}
                 }),
@@ -1656,13 +1656,13 @@ var menah = {};
                   document.dispatchEvent = function (ralique) {
                     return (
                       0 == ralique.type['indexOf']('web-scraper-callback') &&
-                        (sivana.ewsi = true),
+                        (jsData.ewsi = true),
                       dinara.call(document, ralique)
                     );
                   };
                 }),
                 (this['dd_af'] = function () {
-                  sivana['uid'] = this.dataDomeTools['getCookie'](
+                  jsData['uid'] = this.dataDomeTools['getCookie'](
                     'correlation_id'
                   );
                 }),
@@ -1677,10 +1677,10 @@ var menah = {};
                       (claree = claree.concat(dixi, "/", ivo[libny])),
                       function (maislynn) {
                         maislynn
-                          ? true !== sivana.wwsi &&
-                            ((sivana['wwsi'] = true),
+                          ? true !== jsData.wwsi &&
+                            ((jsData['wwsi'] = true),
                             areej("asyncChallengeFinished"))
-                          : (sivana.wwsi = false);
+                          : (jsData.wwsi = false);
                       }
                     );
                   }
@@ -1688,7 +1688,7 @@ var menah = {};
             };
           (audrea.exports = xanden),
             ((parveen = geffrey("./../common/DataDomeTools")),
-            (xanden = function (jsamine) {
+            (xanden = function (jsData) {
               function kenise() {
                 return (
                   -1 ===
@@ -1711,12 +1711,12 @@ var menah = {};
               }
               function jakarii() {
                 return !!(
-                  jsamine['cfpp'] ||
-                  jsamine['slat'] ||
-                  jsamine['cfcpw'] ||
-                  jsamine.cffpw ||
-                  jsamine['cffrb'] ||
-                  jsamine.cfse
+                  jsData['cfpp'] ||
+                  jsData['slat'] ||
+                  jsData['cfcpw'] ||
+                  jsData.cffpw ||
+                  jsData['cffrb'] ||
+                  jsData.cfse
                 );
               }
               function tuuli(towanna) {
@@ -1758,7 +1758,7 @@ var menah = {};
                         return (
                           (solyana.vd = makynleigh),
                           (solyana.rd = allen),
-                          ((jsamine.tagpu = performance.now() - methel),
+                          ((jsData.tagpu = performance.now() - methel),
                           solyana)
                         );
                       } catch (jacia) {
@@ -1766,7 +1766,7 @@ var menah = {};
                         return (
                           (adiela.vd = "NA"),
                           (adiela.rd = "NA"),
-                          ((jsamine['tagpu'] = "NA"), adiela)
+                          ((jsData['tagpu'] = "NA"), adiela)
                         );
                       }
                     return {};
@@ -1819,62 +1819,62 @@ var menah = {};
                 (this.i = null),
                 (this.process = function () {
                   this['checkMousePosition'](),
-                    this['asynchronizeTask'](this['dd_a']),
+                    this.asynchronizeTask(this['dd_a']),
                     this.asynchronizeTask(this.dd_b),
                     this.asynchronizeTask(this['dd_c']),
                     this.asynchronizeTask(this['dd_d']),
-                    this['asynchronizeTask'](this.dd_e),
+                    this.asynchronizeTask(this.dd_e),
                     this.asynchronizeTask(this.dd_f),
-                    this['asynchronizeTask'](this.dd_g),
+                    this.asynchronizeTask(this.dd_g),
                     this.asynchronizeTask(this['dd_h']),
                     this.asynchronizeTask(this.dd_i),
-                    this['asynchronizeTask'](this.dd_j),
+                    this.asynchronizeTask(this.dd_j),
                     this.asynchronizeTask(this['dd_k']),
-                    this['asynchronizeTask'](this['dd_l']),
+                    this.asynchronizeTask(this['dd_l']),
                     this.asynchronizeTask(this.dd_m),
                     this.asynchronizeTask(this.dd_n),
                     this.asynchronizeTask(this['dd_o']),
                     this.asynchronizeTask(this.dd_p),
                     this.asynchronizeTask(this.dd_q),
-                    this['asynchronizeTask'](this['dd_r']),
+                    this.asynchronizeTask(this['dd_r']),
                     this.asynchronizeTask(this['dd_s']),
                     this.asynchronizeTask(this.dd_t),
                     this.asynchronizeTask(this.dd_u),
                     this.asynchronizeTask(this.dd_v),
-                    this['asynchronizeTask'](this['dd_w']),
-                    this['asynchronizeTask'](this['dd_x']),
-                    this['asynchronizeTask'](this.dd_y),
+                    this.asynchronizeTask(this['dd_w']),
+                    this.asynchronizeTask(this['dd_x']),
+                    this.asynchronizeTask(this.dd_y),
                     this.asynchronizeTask(this['dd_z']),
                     this.asynchronizeTask(this['dd_A']),
                     this.asynchronizeTask(this.dd_B),
-                    this['asynchronizeTask'](this.dd_C),
-                    this['asynchronizeTask'](this.dd_D),
-                    this['asynchronizeTask'](this['dd_E']),
+                    this.asynchronizeTask(this.dd_C),
+                    this.asynchronizeTask(this.dd_D),
+                    this.asynchronizeTask(this['dd_E']),
                     this.asynchronizeTask(this.dd_F),
-                    this['asynchronizeTask'](this.dd_G),
+                    this.asynchronizeTask(this.dd_G),
                     this.asynchronizeTask(this.dd_H),
                     this.asynchronizeTask(this.dd_I),
-                    this['asynchronizeTask'](this.dd_J),
-                    this['asynchronizeTask'](this.dd_K),
+                    this.asynchronizeTask(this.dd_J),
+                    this.asynchronizeTask(this.dd_K),
                     this.asynchronizeTask(this['dd_L']),
                     this.asynchronizeTask(this['dd_M']),
-                    this['asynchronizeTask'](this.dd_N),
+                    this.asynchronizeTask(this.dd_N),
                     this.asynchronizeTask(this.dd_O),
-                    this['asynchronizeTask'](this['dd_P']),
+                    this.asynchronizeTask(this['dd_P']),
                     this.asynchronizeTask(this['dd_Q']),
                     this.asynchronizeTask(this.dd_R),
-                    this['asynchronizeTask'](this['dd_S']),
-                    this['asynchronizeTask'](this.dd_T),
+                    this.asynchronizeTask(this['dd_S']),
+                    this.asynchronizeTask(this.dd_T),
                     this.asynchronizeTask(this['dd_U']),
-                    this['asynchronizeTask'](this.dd_V),
+                    this.asynchronizeTask(this.dd_V),
                     this.asynchronizeTask(this.dd_W),
                     this.asynchronizeTask(this.dd_X),
                     this.asynchronizeTask(this['dd_Y']),
                     kenise() &&
                       (this.asynchronizeTask(this.dd_Z),
-                      this['asynchronizeTask'](this.dd_aa),
+                      this.asynchronizeTask(this.dd_aa),
                       this.asynchronizeTask(this['dd_ab']),
-                      this['asynchronizeTask'](this.dd_ac)),
+                      this.asynchronizeTask(this.dd_ac)),
                     ('captcha' != window.dataDomeOptions.ddResponsePage &&
                       "AC9068D07C83EF920E0EB4CAB79979" !==
                         window['ddjskey']) ||
@@ -1883,20 +1883,20 @@ var menah = {};
                           window['ddjskey'] &&
                         this.asynchronizeTask(this.dd_ad)),
                     "05B30BD9055986BD2EE8F5A199D973" === window.ddjskey &&
-                      this['asynchronizeTask'](this.dd_ae),
+                      this.asynchronizeTask(this.dd_ae),
                     '2211F522B61E269B869FA6EAFFB5E1' === window['ddjskey'] &&
                       this.asynchronizeTask(this.dd_af);
                 }),
-                (this['asynchronizeTask'] = function (naiim, dominoe, estephany) {
+                (this.asynchronizeTask = function (naiim, dominoe, estephany) {
                   var nadeline = this;
                   setTimeout(function () {
-                    jsamine['ttst'] || (jsamine['ttst'] = 0);
+                    jsData['ttst'] || (jsData['ttst'] = 0);
                     var tsutomu = performance.now();
                     try {
                       naiim.call(nadeline, dominoe);
                     } catch (sudarshan) {
                     } finally {
-                      jsamine.ttst += performance.now() - tsutomu;
+                      jsData.ttst += performance.now() - tsutomu;
                     }
                   }, estephany);
                 }),
@@ -1914,12 +1914,12 @@ var menah = {};
                     try {
                       var valley = ausitn.stack['split']("\n");
                       valley.length >= 2
-                        ? (jsamine['ifov'] = !!valley[1].match(
+                        ? (jsData['ifov'] = !!valley[1].match(
                             /Ob[cej]{3}t\.a[lp]{3}y[\(< ]{3}an[oynm]{5}us>/
                           ))
-                        : (jsamine['ifov'] = "e1");
+                        : (jsData['ifov'] = "e1");
                     } catch (dessarae) {
-                      jsamine.ifov = "e2";
+                      jsData.ifov = "e2";
                     }
                   }
                 }),
@@ -1943,18 +1943,18 @@ var menah = {};
                     var kinzy = window.navigator.platform,
                       damonnie = anyanka['platform'];
                     damonnie !== kinzy &&
-                      (jsamine.dil = raeisha(damonnie + "__" + kinzy));
+                      (jsData.dil = raeisha(damonnie + "__" + kinzy));
                   } catch (drexton) {}
                 }),
                 (this['dd_c'] = function () {
                   var melayah = kishan(window);
-                  (jsamine['glvd'] = melayah['glvd']),
-                    (jsamine.glrd = melayah['glrd']),
-                    (jsamine.hc = melayah.hc),
-                    (jsamine['br_oh'] = melayah['br_oh']),
-                    (jsamine.br_ow = melayah['br_ow']),
-                    (jsamine.ua = melayah.ua),
-                    (jsamine.wbd = melayah['wbd']);
+                  (jsData['glvd'] = melayah['glvd']),
+                    (jsData.glrd = melayah['glrd']),
+                    (jsData.hc = melayah.hc),
+                    (jsData['br_oh'] = melayah['br_oh']),
+                    (jsData.br_ow = melayah['br_ow']),
+                    (jsData.ua = melayah.ua),
+                    (jsData.wbd = melayah['wbd']);
                   try {
                     function nadelie(agena, zaragosa) {
                       var mayana = [],
@@ -1970,16 +1970,16 @@ var menah = {};
                     }
                     var kellyjean = nadelie(this.o, melayah);
                     kellyjean['keysDelta'] &&
-                      ((jsamine.sivd = kellyjean.keysDelta),
-                      (jsamine.log2 = raeisha(
+                      ((jsData.sivd = kellyjean.keysDelta),
+                      (jsData.log2 = raeisha(
                         kellyjean['deltaVals'].slice(0, 300)
                       )));
                     var devora = cadense(this.i.contentWindow),
                       sauannah = nadelie(this.h, devora);
                     sauannah.keysDelta &&
-                      (jsamine.sird = sauannah['keysDelta']);
+                      (jsData.sird = sauannah['keysDelta']);
                   } catch (lilliah) {
-                    jsamine.log1 = raeisha(lilliah.message);
+                    jsData.log1 = raeisha(lilliah.message);
                   }
                 }),
                 (this.dd_v = function () {
@@ -2008,12 +2008,12 @@ var menah = {};
                     return false;
                   }
                   window.chrome ||
-                    ((jsamine.hcovdr = false),
-                    (jsamine['plovdr'] = false),
-                    (jsamine.ftsovdr = false),
-                    (jsamine.hcovdr2 = false),
-                    (jsamine['plovdr2'] = false),
-                    (jsamine['ftsovdr2'] = false));
+                    ((jsData.hcovdr = false),
+                    (jsData['plovdr'] = false),
+                    (jsData.ftsovdr = false),
+                    (jsData.hcovdr2 = false),
+                    (jsData['plovdr2'] = false),
+                    (jsData['ftsovdr2'] = false));
                   try {
                     var guerline = topazio(
                       Object.getOwnPropertyDescriptor(
@@ -2021,10 +2021,10 @@ var menah = {};
                         'hardwareConcurrency'
                       ).get
                     );
-                    (jsamine.hcovdr = rhyden(guerline)),
-                      (jsamine['hcovdr2'] = essica(guerline));
+                    (jsData.hcovdr = rhyden(guerline)),
+                      (jsData['hcovdr2'] = essica(guerline));
                   } catch (ragav) {
-                    (jsamine['hcovdr'] = false), (jsamine.hcovdr2 = false);
+                    (jsData['hcovdr'] = false), (jsData.hcovdr2 = false);
                   }
                   try {
                     var an = topazio(
@@ -2033,28 +2033,28 @@ var menah = {};
                         'platform'
                       ).get
                     );
-                    (jsamine['plovdr'] = rhyden(an)),
-                      (jsamine.plovdr2 = essica(an));
+                    (jsData['plovdr'] = rhyden(an)),
+                      (jsData.plovdr2 = essica(an));
                   } catch (yahara) {
-                    (jsamine.plovdr = false), (jsamine['plovdr2'] = false);
+                    (jsData.plovdr = false), (jsData['plovdr2'] = false);
                   }
                   try {
                     var betrice = topazio(Function.prototype['toString']);
-                    (jsamine['ftsovdr'] = rhyden(betrice)),
-                      (jsamine.ftsovdr2 = essica(betrice));
+                    (jsData['ftsovdr'] = rhyden(betrice)),
+                      (jsData.ftsovdr2 = essica(betrice));
                   } catch (eyoab) {
-                    (jsamine.ftsovdr = false), (jsamine.ftsovdr2 = false);
+                    (jsData.ftsovdr = false), (jsData.ftsovdr2 = false);
                   }
                 }),
                 (this['dd_d'] = function () {
                   try {
                     var khaleem = this.i;
-                    (jsamine.wdif =
+                    (jsData.wdif =
                       !!khaleem['contentWindow'].navigator.webdriver),
-                      (jsamine.wdifrm =
+                      (jsData.wdifrm =
                         khaleem['contentWindow'] === window ||
                         khaleem.contentWindow.setTimeout === window.setTimeout),
-                      (jsamine.iwgl =
+                      (jsData.iwgl =
                         khaleem.contentWindow['self'] &&
                         khaleem.contentWindow.self['get'] &&
                         khaleem['contentWindow'].self.get.toString &&
@@ -2062,52 +2062,52 @@ var menah = {};
                           'get'
                         ].toString().length);
                   } catch (marya) {
-                    jsamine.wdif = 'err';
+                    jsData.wdif = 'err';
                   }
                 }),
                 (this['dd_g'] = function () {
-                  (jsamine['br_h'] = Math['max'](
+                  (jsData['br_h'] = Math['max'](
                     document['documentElement'].clientHeight,
                     window.innerHeight || 0
                   )),
-                    (jsamine.br_w = Math.max(
+                    (jsData.br_w = Math.max(
                       document['documentElement']['clientWidth'],
                       window.innerWidth || 0
                     ));
                 }),
                 (this.dd_i = function () {
-                  (jsamine.rs_h = window.screen.height),
-                    (jsamine['rs_w'] = window['screen']['width']),
-                    (jsamine.rs_cd = window.screen.colorDepth);
+                  (jsData.rs_h = window.screen.height),
+                    (jsData['rs_w'] = window['screen']['width']),
+                    (jsData.rs_cd = window.screen.colorDepth);
                 }),
                 (this.dd_ab = function () {
                   try {
                     var clover = document.createElement('canvas');
-                    jsamine.cvs = !(
+                    jsData.cvs = !(
                       !clover.getContext || !clover.getContext("2d")
                     );
                   } catch (tarell) {
-                    jsamine.cvs = false;
+                    jsData.cvs = false;
                   }
                 }),
                 (this.dd_j = function () {
-                  jsamine.phe = !(!window.callPhantom && !window._phantom);
+                  jsData.phe = !(!window.callPhantom && !window._phantom);
                 }),
                 (this.dd_k = function () {
-                  jsamine.nm = !!window.__nightmare;
+                  jsData.nm = !!window.__nightmare;
                 }),
                 (this.dd_l = function () {
-                  (jsamine.jsf = false),
+                  (jsData.jsf = false),
                     (!Function.prototype.bind ||
                       (Function.prototype['bind']
                         ['toString']()
                         .replace(/bind/g, 'Error') !=
                         Error['toString']() &&
                         void 0 === window['Prototype'])) &&
-                      (jsamine['jsf'] = true);
+                      (jsData['jsf'] = true);
                 }),
                 (this.dd_n = function () {
-                  jsamine.lg =
+                  jsData.lg =
                     navigator.language ||
                     navigator.userLanguage ||
                     navigator.browserLanguage ||
@@ -2115,56 +2115,56 @@ var menah = {};
                     "";
                 }),
                 (this.dd_o = function () {
-                  jsamine.pr = window['devicePixelRatio'] || "unknown";
+                  jsData.pr = window['devicePixelRatio'] || "unknown";
                 }),
                 (this['dd_q'] = function () {
-                  (jsamine['ars_h'] = screen['availHeight'] || 0),
-                    (jsamine.ars_w = screen['availWidth'] || 0);
+                  (jsData['ars_h'] = screen['availHeight'] || 0),
+                    (jsData.ars_w = screen['availWidth'] || 0);
                 }),
                 (this.dd_r = function () {
-                  jsamine.tz = new Date()['getTimezoneOffset']();
+                  jsData.tz = new Date()['getTimezoneOffset']();
                 }),
                 (this.dd_aa = function () {
-                  (jsamine['tzp'] = "NA"),
+                  (jsData['tzp'] = "NA"),
                     window.Intl &&
                       Intl.DateTimeFormat &&
                       'function' ==
                         typeof Intl.DateTimeFormat.prototype.resolvedOptions &&
-                      (jsamine.tzp =
+                      (jsData.tzp =
                         Intl.DateTimeFormat()['resolvedOptions']().timeZone || "NA");
                 }),
                 (this.dd_s = function () {
                   try {
-                    jsamine.str_ss = !!window.sessionStorage;
+                    jsData.str_ss = !!window.sessionStorage;
                   } catch (kenni) {
-                    jsamine.str_ss = "NA";
+                    jsData.str_ss = "NA";
                   }
                   try {
-                    jsamine['str_ls'] = !!window.localStorage;
+                    jsData['str_ls'] = !!window.localStorage;
                   } catch (razel) {
-                    jsamine.str_ls = "NA";
+                    jsData.str_ls = "NA";
                   }
                   try {
-                    jsamine.str_idb = !!window.indexedDB;
+                    jsData.str_idb = !!window.indexedDB;
                   } catch (bekim) {
-                    jsamine.str_idb = "NA";
+                    jsData.str_idb = "NA";
                   }
                   try {
-                    jsamine.str_odb = !!window.openDatabase;
+                    jsData.str_odb = !!window.openDatabase;
                   } catch (danayara) {
-                    jsamine.str_odb = "NA";
+                    jsData.str_odb = "NA";
                   }
                 }),
                 (this['dd_t'] = function () {
                   try {
                     if (
-                      ((jsamine.plgod = false),
-                      (jsamine['plg'] = navigator['plugins'].length),
-                      (jsamine.plgne = "NA"),
-                      (jsamine.plgre = "NA"),
-                      (jsamine['plgof'] = "NA"),
-                      (jsamine.plggt = "NA"),
-                      (jsamine.plgod = !!Object.getOwnPropertyDescriptor(
+                      ((jsData.plgod = false),
+                      (jsData['plg'] = navigator['plugins'].length),
+                      (jsData.plgne = "NA"),
+                      (jsData.plgre = "NA"),
+                      (jsData['plgof'] = "NA"),
+                      (jsData.plggt = "NA"),
+                      (jsData.plgod = !!Object.getOwnPropertyDescriptor(
                         navigator,
                         "plugins"
                       )),
@@ -2175,19 +2175,19 @@ var menah = {};
                       try {
                         navigator['plugins'][0].length;
                       } catch (shaylynne) {
-                        jsamine.plgod = true;
+                        jsData.plgod = true;
                       }
                       try {
-                        (jsamine.plgne =
+                        (jsData.plgne =
                           navigator.plugins[0].name ===
                           navigator['plugins'][0][0]['enabledPlugin'].name),
-                          (jsamine['plgre'] =
+                          (jsData['plgre'] =
                             navigator.plugins[0][0].enabledPlugin ===
                             navigator.plugins[0]),
-                          (jsamine.plgof =
+                          (jsData.plgof =
                             navigator.plugins['item'](859523698994125) ===
                             navigator['plugins'][0]),
-                          (jsamine['plggt'] =
+                          (jsData['plggt'] =
                             Object.getOwnPropertyDescriptor(
                               navigator.__proto__,
                               'plugins'
@@ -2195,24 +2195,24 @@ var menah = {};
                               ['get'].toString()
                               ['indexOf']('return') > -1);
                       } catch (barak) {
-                        (jsamine.plgne = "err"),
-                          (jsamine.plgre = "err"),
-                          (jsamine['plgof'] = "err"),
-                          (jsamine.plggt = 'err');
+                        (jsData.plgne = "err"),
+                          (jsData.plgre = "err"),
+                          (jsData['plgof'] = "err"),
+                          (jsData.plggt = 'err');
                       }
                     }
                   } catch (ghazi) {
-                    jsamine.plg = 0;
+                    jsData.plg = 0;
                   }
                 }),
                 (this['dd_u'] = function () {
-                  jsamine.pltod = !!Object.getOwnPropertyDescriptor(
+                  jsData.pltod = !!Object.getOwnPropertyDescriptor(
                     navigator,
                     'platform'
                   );
                 }),
                 (this.dd_w = function () {
-                  jsamine.lb = false;
+                  jsData.lb = false;
                   var dayvin,
                     carletta = navigator.userAgent.toLowerCase();
                   ("Chrome" !==
@@ -2232,9 +2232,9 @@ var menah = {};
                     "Safari" !== dayvin &&
                     'Opera' !== dayvin) ||
                     '20030107' === navigator.productSub ||
-                    (jsamine.lb = true);
+                    (jsData.lb = true);
                   var kelsie = eval.toString()['length'];
-                  (jsamine.eva = kelsie),
+                  (jsData.eva = kelsie),
                     ((37 === kelsie &&
                       "Safari" !== dayvin &&
                       "Firefox" !== dayvin &&
@@ -2246,10 +2246,10 @@ var menah = {};
                         "Chrome" !== dayvin &&
                         "Opera" !== dayvin &&
                         'Other' !== dayvin)) &&
-                      (jsamine.lb = true);
+                      (jsData.lb = true);
                 }),
                 (this.dd_x = function () {
-                  jsamine.lo = false;
+                  jsData.lo = false;
                   var geneal,
                     cchristopher = navigator['userAgent'].toLowerCase(),
                     golan = navigator.oscpu,
@@ -2276,7 +2276,7 @@ var menah = {};
                       "Android" !== geneal &&
                       "iOS" !== geneal &&
                       'Other' !== geneal &&
-                      (jsamine.lo = true),
+                      (jsData.lo = true),
                     void 0 !== golan &&
                       (((golan = golan.toLowerCase())['indexOf']("win") >=
                         0 &&
@@ -2292,7 +2292,7 @@ var menah = {};
                           0 === golan['indexOf']("linux") &&
                           golan.indexOf('mac') >= 0 &&
                           "other" !== geneal)) &&
-                      (jsamine.lo = true),
+                      (jsData.lo = true),
                     ((khalan.indexOf("win") >= 0 &&
                       "Windows" !== geneal &&
                       'Windows Phone' !== geneal) ||
@@ -2311,38 +2311,38 @@ var menah = {};
                         0 === khalan.indexOf("linux") &&
                         khalan.indexOf("mac") >= 0 &&
                         'other' !== geneal)) &&
-                      (jsamine.lo = true),
+                      (jsData.lo = true),
                     void 0 === navigator.plugins &&
                       "Windows" !== geneal &&
                       'Windows Phone' !== geneal &&
-                      (jsamine.lo = true);
+                      (jsData.lo = true);
                 }),
                 (this['dd_y'] = function () {
-                  jsamine['ts_mtp'] =
+                  jsData['ts_mtp'] =
                     navigator.maxTouchPoints || navigator['msMaxTouchPoints'] || 0;
                   try {
                     document.createEvent("TouchEvent"),
-                      (jsamine['ts_tec'] = true);
+                      (jsData['ts_tec'] = true);
                   } catch (quandell) {
-                    jsamine.ts_tec = false;
+                    jsData.ts_tec = false;
                   }
-                  jsamine.ts_tsa = "ontouchstart" in window;
+                  jsData.ts_tsa = "ontouchstart" in window;
                 }),
                 (this['dd_ac'] = function () {
                   window['navigator']['usb']
-                    ? (jsamine['usb'] = 'defined')
-                    : (jsamine.usb = "NA");
+                    ? (jsData['usb'] = 'defined')
+                    : (jsData.usb = "NA");
                 }),
                 (this.dd_z = function () {
-                  jsamine['vnd'] = window.navigator['vendor'];
+                  jsData['vnd'] = window.navigator['vendor'];
                 }),
                 (this.dd_A = function () {
-                  jsamine.bid = window['navigator']['buildID'] || "NA";
+                  jsData.bid = window['navigator']['buildID'] || "NA";
                 }),
                 (this.dd_B = function () {
                   if (window['navigator'].mimeTypes) {
                     if (0 == window.navigator.mimeTypes.length)
-                      jsamine.mmt = "empty";
+                      jsData.mmt = "empty";
                     else {
                       for (
                         var ashawni = [], adlei = 0;
@@ -2350,14 +2350,14 @@ var menah = {};
                         adlei++
                       )
                         ashawni.push(window.navigator.mimeTypes[adlei].type);
-                      jsamine['mmt'] = ashawni.join();
+                      jsData['mmt'] = ashawni.join();
                     }
-                  } else jsamine['mmt'] = "NA";
+                  } else jsData['mmt'] = "NA";
                 }),
                 (this.dd_C = function () {
                   if (window.navigator.plugins) {
                     if (0 == window['navigator']['plugins'].length)
-                      jsamine['plu'] = "empty";
+                      jsData['plu'] = "empty";
                     else {
                       for (
                         var emberlyn = [], rass = 0;
@@ -2367,150 +2367,150 @@ var menah = {};
                         emberlyn.push(
                           window['navigator']['plugins'][rass].name
                         );
-                      jsamine.plu = emberlyn.join();
+                      jsData.plu = emberlyn.join();
                     }
-                  } else jsamine.plu = "NA";
+                  } else jsData.plu = "NA";
                 }),
                 (this['dd_D'] = function () {
-                  jsamine.hdn = !!document.hidden;
+                  jsData.hdn = !!document.hidden;
                 }),
                 (this['dd_E'] = function () {
-                  jsamine.awe = !!window.awesomium;
+                  jsData.awe = !!window.awesomium;
                 }),
                 (this['dd_F'] = function () {
-                  jsamine.geb = !!window['geb'];
+                  jsData.geb = !!window['geb'];
                 }),
                 (this.dd_G = function () {
-                  jsamine.dat =
+                  jsData.dat =
                     "domAutomation" in window ||
                     "domAutomationController" in window;
                 }),
                 (this['dd_H'] = function () {
                   window.navigator.mediaDevices
-                    ? (jsamine.med = "defined")
-                    : (jsamine.med = "NA");
+                    ? (jsData.med = "defined")
+                    : (jsData.med = "NA");
                 }),
                 (this.dd_I = function () {
                   try {
                     var ricky = document['createElement']("audio"),
                       chaketa = MediaSource || WebKitMediaSource;
-                    (jsamine.aco = ricky.canPlayType('audio/ogg; codecs="vorbis"')),
-                      (jsamine.acots = chaketa.isTypeSupported(
+                    (jsData.aco = ricky.canPlayType('audio/ogg; codecs="vorbis"')),
+                      (jsData.acots = chaketa.isTypeSupported(
                         'audio/ogg; codecs="vorbis"'
                       )),
-                      (jsamine.acmp = ricky.canPlayType("audio/mpeg;")),
-                      (jsamine.acmpts = chaketa['isTypeSupported']('audio/mpeg;"')),
-                      (jsamine['acw'] = ricky['canPlayType'](
+                      (jsData.acmp = ricky.canPlayType("audio/mpeg;")),
+                      (jsData.acmpts = chaketa['isTypeSupported']('audio/mpeg;"')),
+                      (jsData['acw'] = ricky['canPlayType'](
                         'audio/wav; codecs="1"'
                       )),
-                      (jsamine.acwts = chaketa.isTypeSupported(
+                      (jsData.acwts = chaketa.isTypeSupported(
                         'audio/wav; codecs="1"'
                       )),
-                      (jsamine.acma = ricky.canPlayType('audio/x-m4a;')),
-                      (jsamine.acmats = chaketa['isTypeSupported']("audio/x-m4a;")),
-                      (jsamine.acaa = ricky.canPlayType("audio/aac;")),
-                      (jsamine.acaats = chaketa.isTypeSupported("audio/aac;")),
-                      (jsamine.ac3 = ricky.canPlayType('audio/3gpp;')),
-                      (jsamine.ac3ts = chaketa.isTypeSupported('audio/3gpp;')),
-                      (jsamine['acf'] =
+                      (jsData.acma = ricky.canPlayType('audio/x-m4a;')),
+                      (jsData.acmats = chaketa['isTypeSupported']("audio/x-m4a;")),
+                      (jsData.acaa = ricky.canPlayType("audio/aac;")),
+                      (jsData.acaats = chaketa.isTypeSupported("audio/aac;")),
+                      (jsData.ac3 = ricky.canPlayType('audio/3gpp;')),
+                      (jsData.ac3ts = chaketa.isTypeSupported('audio/3gpp;')),
+                      (jsData['acf'] =
                         ricky.canPlayType("audio/flac;")),
-                      (jsamine.acfts = chaketa.isTypeSupported("audio/flac;")),
-                      (jsamine['acmp4'] = ricky.canPlayType(
+                      (jsData.acfts = chaketa.isTypeSupported("audio/flac;")),
+                      (jsData['acmp4'] = ricky.canPlayType(
                         'audio/mp4;'
                       )),
-                      (jsamine.acmp4ts = chaketa['isTypeSupported']("audio/mp4;")),
-                      (jsamine['acmp3'] =
+                      (jsData.acmp4ts = chaketa['isTypeSupported']("audio/mp4;")),
+                      (jsData['acmp3'] =
                         ricky['canPlayType']("audio/mp3;")),
-                      (jsamine.acmp3ts = chaketa.isTypeSupported("audio/mp3;")),
-                      (jsamine.acwm = ricky.canPlayType('audio/webm;')),
-                      (jsamine.acwmts = chaketa.isTypeSupported("audio/webm;")),
-                      (jsamine.ocpt =
+                      (jsData.acmp3ts = chaketa.isTypeSupported("audio/mp3;")),
+                      (jsData.acwm = ricky.canPlayType('audio/webm;')),
+                      (jsData.acwmts = chaketa.isTypeSupported("audio/webm;")),
+                      (jsData.ocpt =
                         -1 ===
                         ricky.canPlayType.toString().indexOf("canPlayType"));
                   } catch (yacqub) {
-                    (jsamine.aco = "NA"),
-                      (jsamine.acmp = "NA"),
-                      (jsamine.acw = "NA"),
-                      (jsamine.acma = "NA"),
-                      (jsamine['acaa'] = "NA"),
-                      (jsamine['ac3'] = "NA"),
-                      (jsamine['acf'] = "NA"),
-                      (jsamine.acmp4 = "NA"),
-                      (jsamine.acmp3 = "NA"),
-                      (jsamine['acwm'] = "NA"),
-                      (jsamine['acots'] = "NA"),
-                      (jsamine.acmpts = "NA"),
-                      (jsamine['acwts'] = "NA"),
-                      (jsamine['acmats'] = "NA"),
-                      (jsamine['acaats'] = "NA"),
-                      (jsamine['ac3ts'] = "NA"),
-                      (jsamine.acfts = "NA"),
-                      (jsamine.acmp4ts = "NA"),
-                      (jsamine.acmp3ts = "NA"),
-                      (jsamine['acwmts'] = "NA");
+                    (jsData.aco = "NA"),
+                      (jsData.acmp = "NA"),
+                      (jsData.acw = "NA"),
+                      (jsData.acma = "NA"),
+                      (jsData['acaa'] = "NA"),
+                      (jsData['ac3'] = "NA"),
+                      (jsData['acf'] = "NA"),
+                      (jsData.acmp4 = "NA"),
+                      (jsData.acmp3 = "NA"),
+                      (jsData['acwm'] = "NA"),
+                      (jsData['acots'] = "NA"),
+                      (jsData.acmpts = "NA"),
+                      (jsData['acwts'] = "NA"),
+                      (jsData['acmats'] = "NA"),
+                      (jsData['acaats'] = "NA"),
+                      (jsData['ac3ts'] = "NA"),
+                      (jsData.acfts = "NA"),
+                      (jsData.acmp4ts = "NA"),
+                      (jsData.acmp3ts = "NA"),
+                      (jsData['acwmts'] = "NA");
                   }
                 }),
                 (this.dd_J = function () {
                   try {
                     var jalynn = document.createElement("video"),
                       sire = MediaSource || WebKitMediaSource;
-                    (jsamine.vco = jalynn.canPlayType(
+                    (jsData.vco = jalynn.canPlayType(
                       'video/ogg; codecs="theora"'
                     )),
-                      (jsamine.vcots = sire['isTypeSupported']('video/ogg; codecs="theora"')),
-                      (jsamine['vch'] = jalynn.canPlayType(
+                      (jsData.vcots = sire['isTypeSupported']('video/ogg; codecs="theora"')),
+                      (jsData['vch'] = jalynn.canPlayType(
                         'video/mp4; codecs="avc1.42E01E"'
                       )),
-                      (jsamine.vchts = sire['isTypeSupported'](
+                      (jsData.vchts = sire['isTypeSupported'](
                         'video/mp4; codecs="avc1.42E01E"'
                       )),
-                      (jsamine.vcw = jalynn['canPlayType']('video/webm; codecs="vp8, vorbis"')),
-                      (jsamine.vcwts = sire['isTypeSupported']('video/webm; codecs="vp8, vorbis"')),
-                      (jsamine.vc3 = jalynn.canPlayType("video/3gpp;")),
-                      (jsamine.vc3ts = sire.isTypeSupported("video/3gpp;")),
-                      (jsamine.vcmp = jalynn.canPlayType("video/mpeg;")),
-                      (jsamine.vcmpts = sire['isTypeSupported']("video/mpeg")),
-                      (jsamine.vcq = jalynn['canPlayType']("video/quicktime;")),
-                      (jsamine.vcqts =
+                      (jsData.vcw = jalynn['canPlayType']('video/webm; codecs="vp8, vorbis"')),
+                      (jsData.vcwts = sire['isTypeSupported']('video/webm; codecs="vp8, vorbis"')),
+                      (jsData.vc3 = jalynn.canPlayType("video/3gpp;")),
+                      (jsData.vc3ts = sire.isTypeSupported("video/3gpp;")),
+                      (jsData.vcmp = jalynn.canPlayType("video/mpeg;")),
+                      (jsData.vcmpts = sire['isTypeSupported']("video/mpeg")),
+                      (jsData.vcq = jalynn['canPlayType']("video/quicktime;")),
+                      (jsData.vcqts =
                         sire.isTypeSupported("video/quicktime;")),
-                      (jsamine['vc1'] = jalynn.canPlayType('video/mp4; codecs="av01.0.08M.08"')),
-                      (jsamine.vc1ts = sire['isTypeSupported'](
+                      (jsData['vc1'] = jalynn.canPlayType('video/mp4; codecs="av01.0.08M.08"')),
+                      (jsData.vc1ts = sire['isTypeSupported'](
                         'video/mp4; codecs="av01.0.08M.08"'
                       ));
                   } catch (natalea) {
-                    (jsamine.vco = "NA"),
-                      (jsamine.vch = "NA"),
-                      (jsamine['vcw'] = "NA"),
-                      (jsamine.vc3 = "NA"),
-                      (jsamine['vcmp'] = "NA"),
-                      (jsamine['vcq'] = "NA"),
-                      (jsamine['vc1'] = "NA"),
-                      (jsamine.vcots = "NA"),
-                      (jsamine['vchts'] = "NA"),
-                      (jsamine.vcwts = "NA"),
-                      (jsamine.vc3ts = "NA"),
-                      (jsamine.vcmpts = "NA"),
-                      (jsamine['vcqts'] = "NA"),
-                      (jsamine['vc1ts'] = "NA");
+                    (jsData.vco = "NA"),
+                      (jsData.vch = "NA"),
+                      (jsData['vcw'] = "NA"),
+                      (jsData.vc3 = "NA"),
+                      (jsData['vcmp'] = "NA"),
+                      (jsData['vcq'] = "NA"),
+                      (jsData['vc1'] = "NA"),
+                      (jsData.vcots = "NA"),
+                      (jsData['vchts'] = "NA"),
+                      (jsData.vcwts = "NA"),
+                      (jsData.vc3ts = "NA"),
+                      (jsData.vcmpts = "NA"),
+                      (jsData['vcqts'] = "NA"),
+                      (jsData['vc1ts'] = "NA");
                   }
                 }),
                 (this.dd_K = function () {
-                  jsamine.dvm = navigator['deviceMemory'] || "NA";
+                  jsData.dvm = navigator['deviceMemory'] || "NA";
                 }),
                 (this['dd_L'] = function () {
-                  jsamine.sqt =
+                  jsData.sqt =
                     window.external &&
                     window.external['toString'] &&
                     window.external.toString()['indexOf']("Sequentum") > -1;
                 }),
                 (this.dd_M = function () {
                   try {
-                    jsamine.so = window.screen.orientation.type;
+                    jsData.so = window.screen.orientation.type;
                   } catch (aajah) {
                     try {
-                      jsamine.so = window.screen['msOrientation'];
+                      jsData.so = window.screen['msOrientation'];
                     } catch (ahadu) {
-                      jsamine.so = "NA";
+                      jsData.so = "NA";
                     }
                   }
                 }),
@@ -2521,27 +2521,27 @@ var menah = {};
                     "object" == typeof process.versions &&
                     process['versions']['electron']) ||
                   window.close['toString']().indexOf("ELECTRON") > -1
-                    ? (jsamine.ecpc = true)
-                    : (jsamine['ecpc'] = !!window['process']);
+                    ? (jsData.ecpc = true)
+                    : (jsData['ecpc'] = !!window['process']);
                 }),
                 (this.dd_Q = function () {
                   if (
-                    ((jsamine.wdw = true),
+                    ((jsData.wdw = true),
                     navigator.userAgent['toLowerCase']()['indexOf']("chrome") >=
                       0 &&
                       !window.chrome &&
-                      (jsamine.wdw = false),
+                      (jsData.wdw = false),
                     window.chrome)
                   ) {
                     var alsha = "";
                     for (var stevon in window.chrome) alsha += stevon;
-                    jsamine['cokys'] = raeisha(alsha) + "L=";
+                    jsData['cokys'] = raeisha(alsha) + "L=";
                   }
                 }),
                 (this.dd_Z = function () {
                   var honeste = {};
                   (honeste.name = "notifications"),
-                    ((jsamine.prm = true),
+                    ((jsData.prm = true),
                     void 0 !== navigator.permissions &&
                       void 0 !== navigator.permissions['query'] &&
                       navigator.permissions
@@ -2550,13 +2550,13 @@ var menah = {};
                           "undefined" != typeof Notification &&
                             "denied" == Notification['permission'] &&
                             "prompt" == dekevious.state &&
-                            (jsamine.prm = false);
+                            (jsData.prm = false);
                         })
                         .catch(function () {}));
                 }),
                 (this['dd_S'] = function () {
-                  (jsamine['lgs'] = "" !== navigator['languages']),
-                    (jsamine['lgsod'] = !!Object.getOwnPropertyDescriptor(
+                  (jsData['lgs'] = "" !== navigator['languages']),
+                    (jsData['lgsod'] = !!Object.getOwnPropertyDescriptor(
                       navigator,
                       "languages"
                     ));
@@ -2588,13 +2588,13 @@ var menah = {};
                           try {
                             var ahjah =
                               arguments.callee.caller['toString']();
-                            (jsamine['cfpfe'] = raeisha(
+                            (jsData['cfpfe'] = raeisha(
                               ahjah['slice'](0, 150)
                             )),
                               ahjah.indexOf("on(selector, wit") > -1 &&
-                                ((jsamine.cffrb = true), tuuli('asyncChallengeFinished'));
+                                ((jsData.cffrb = true), tuuli('asyncChallengeFinished'));
                           } catch (unseld) {
-                            jsamine.cfpfe = raeisha(
+                            jsData.cfpfe = raeisha(
                               "Error: " + unseld['message'].slice(0, 150)
                             );
                           }
@@ -2603,7 +2603,7 @@ var menah = {};
                           } catch (rejoyce) {
                             if ("string" != typeof rejoyce.stack)
                               return shelah.apply(this, arguments);
-                            jsamine.stcfp = raeisha(rejoyce.stack.slice(-150));
+                            jsData.stcfp = raeisha(rejoyce.stack.slice(-150));
                             var ardell = rejoyce['stack'].split("\n");
                             if (nevaeh)
                               try {
@@ -2611,7 +2611,7 @@ var menah = {};
                                   ardell.length > 1 &&
                                   yehonatan.test(ardell[2]);
                                 catherne &&
-                                  ((jsamine.cfpp = true),
+                                  ((jsData.cfpp = true),
                                   tuuli("asyncChallengeFinished"));
                                 var kort =
                                   ardell['length'] > 2 &&
@@ -2619,7 +2619,7 @@ var menah = {};
                                     ardell[ardell.length - 3]
                                   );
                                 kort &&
-                                  ((jsamine['cfcpw'] = true),
+                                  ((jsData['cfcpw'] = true),
                                   tuuli("asyncChallengeFinished"));
                                 var fedel =
                                   ardell.length > 8 &&
@@ -2627,7 +2627,7 @@ var menah = {};
                                     ardell[ardell['length'] - 4]
                                   );
                                 fedel &&
-                                  ((jsamine.cfse = true),
+                                  ((jsData.cfse = true),
                                   tuuli('asyncChallengeFinished'));
                               } catch (stefani) {}
                             else {
@@ -2639,7 +2639,7 @@ var menah = {};
                                       ardell[ardell['length'] - 3]
                                     );
                                   masako &&
-                                    ((jsamine.cffpw = true),
+                                    ((jsData.cffpw = true),
                                     tuuli("asyncChallengeFinished"));
                                 } catch (akhirah) {}
                             }
@@ -2688,37 +2688,37 @@ var menah = {};
                           ' object could not be cloned.';
                         return teja['message'] != levena;
                       }
-                      jsamine.npmtm = !!(
+                      jsData.npmtm = !!(
                         kanard(navigator.plugins, "PluginArray") ||
                         kanard(navigator['plugins'][0], "Plugin") ||
                         kanard(navigator['mimeTypes'], "MimeTypeArray") ||
                         kanard(navigator.mimeTypes[0], "MimeType")
                       );
-                    } else jsamine['npmtm'] = "noIframe";
-                  } else jsamine.npmtm = "NA";
+                    } else jsData['npmtm'] = "noIframe";
+                  } else jsData.npmtm = "NA";
                 }),
                 (this['dd_U'] = function () {
-                  (jsamine.psn =
+                  (jsData.psn =
                     !!window.PermissionStatus &&
                     window.PermissionStatus['prototype'].hasOwnProperty(
                       "name"
                     )),
-                    (jsamine.edp = !!window.EyeDropper),
-                    (jsamine.addt = !!window.AudioData),
-                    (jsamine.wsdc = !!window.WritableStreamDefaultController),
-                    (jsamine.ccsr = !!window['CSSCounterStyleRule']),
-                    (jsamine.nuad = !!window.NavigatorUAData),
-                    (jsamine.bcda = !!window['BarcodeDetector']),
-                    (jsamine.idn = !(
+                    (jsData.edp = !!window.EyeDropper),
+                    (jsData.addt = !!window.AudioData),
+                    (jsData.wsdc = !!window.WritableStreamDefaultController),
+                    (jsData.ccsr = !!window['CSSCounterStyleRule']),
+                    (jsData.nuad = !!window.NavigatorUAData),
+                    (jsData.bcda = !!window['BarcodeDetector']),
+                    (jsData.idn = !(
                       !window['Intl'] || !Intl.DisplayNames
                     )),
-                    (jsamine['capi'] = !!(
+                    (jsData['capi'] = !!(
                       window['navigator'] &&
                       window.navigator.contacts &&
                       window.navigator['ContactsManager']
                     )),
-                    (jsamine.svde = !!window['SVGDiscardElement']),
-                    (jsamine.vpbq = !!(
+                    (jsData.svde = !!window['SVGDiscardElement']),
+                    (jsData.vpbq = !!(
                       window['HTMLVideoElement'] &&
                       window.HTMLVideoElement.prototype &&
                       window.HTMLVideoElement.prototype.getVideoPlaybackQuality
@@ -2762,9 +2762,9 @@ var menah = {};
                   function kemon(ahaziah) {
                     ahaziah &&
                       (jakarii()
-                        ? (jsamine.slat = true)
-                        : ((jsamine.slat = true),
-                          (jsamine.slevt = true),
+                        ? (jsData.slat = true)
+                        : ((jsData.slat = true),
+                          (jsData.slevt = true),
                           tuuli("asyncChallengeFinished")));
                   }
                   if ("function" == typeof document['addEventListener']) {
@@ -2788,7 +2788,7 @@ var menah = {};
                       !jakarii()
                     )
                       return (
-                        (jsamine.slat = true),
+                        (jsData.slat = true),
                         void tuuli("asyncChallengeFinished")
                       );
                   var zailen = setInterval(function () {
@@ -2798,7 +2798,7 @@ var menah = {};
                         !jakarii()
                       )
                         return (
-                          (jsamine.slat = true),
+                          (jsData.slat = true),
                           tuuli("asyncChallengeFinished"),
                           void clearInterval(zailen)
                         );
@@ -2816,7 +2816,7 @@ var menah = {};
                           !jakarii()
                         )
                           return (
-                            (jsamine.slat = true),
+                            (jsData.slat = true),
                             tuuli("asyncChallengeFinished"),
                             void clearInterval(zailen)
                           );
@@ -2832,8 +2832,8 @@ var menah = {};
                                   /[\d\w]{8}\-[\d\w]{4}\-[\d\w]{4}\-[\d\w]{4}\-[\d\w]{12}/
                                 ) &&
                                 (jakarii() ||
-                                  ((jsamine.slmk = oakley.slice(0, 64)),
-                                  (jsamine.slat = true),
+                                  ((jsData.slmk = oakley.slice(0, 64)),
+                                  (jsData.slat = true),
                                   tuuli("asyncChallengeFinished"),
                                   clearInterval(zailen)));
                           }
@@ -2846,28 +2846,28 @@ var menah = {};
                   }, 1e4);
                 }),
                 (this.dd_W = function () {
-                  jsamine.ucdv =
+                  jsData.ucdv =
                     "undefined" != typeof objectToInspect &&
                     null === objectToInspect &&
                     "undefined" != typeof result &&
                     !!result;
                 }),
                 (this.dd_X = function () {
-                  (jsamine.spwn = !!window['spawn']),
-                    (jsamine.emt = !!window['emit']),
-                    (jsamine.bfr = !!window.Buffer);
+                  (jsData.spwn = !!window['spawn']),
+                    (jsData.emt = !!window['emit']),
+                    (jsData.bfr = !!window.Buffer);
                 }),
                 (this.dd_Y = function () {
                   void 0 !== window.console &&
                     "function" == typeof window['console']['debug'] &&
-                    (jsamine.dbov = !!("" +
+                    (jsData.dbov = !!("" +
                       window['console']['debug'])['match'](
                       /[\)\( ]{3}[>= ]{3}\{\n[ r]{9}etu[n r]{3}n[lu]{3}/
                     ));
                 }),
                 (this.dd_h = function () {
                   try {
-                    (jsamine['nddc'] = (
+                    (jsData['nddc'] = (
                       document.cookie.match(/datadome=/g) || []
                     ).length),
                       -1 ===
@@ -2879,11 +2879,11 @@ var menah = {};
                           'E425597ED9CAB7918B35EB23FEDF90',
                           "E425597ED9CAB7918B35EB23FEDF90",
                         ].indexOf(window['ddjskey']) &&
-                        2 === jsamine['nddc'] &&
+                        2 === jsData['nddc'] &&
                         window.location.href.indexOf("www.") > -1 &&
                         (document.cookie = 'datadome=1; Max-Age=0; Path=/;');
                   } catch (jailiyah) {
-                    jsamine.nddc = "err";
+                    jsData.nddc = "err";
                   }
                 }),
                 (this['checkMousePosition'] = function () {
@@ -2893,10 +2893,10 @@ var menah = {};
                       if (
                         oaklynne &&
                         dominie.timeStamp &&
-                        (null === jsamine['tbce'] ||
-                          void 0 === jsamine.tbce)
+                        (null === jsData['tbce'] ||
+                          void 0 === jsData.tbce)
                       ) {
-                        jsamine.tbce = parseInt(dominie.timeStamp - oaklynne);
+                        jsData.tbce = parseInt(dominie.timeStamp - oaklynne);
                         try {
                           this.dataDomeTools.removeEventListener(
                             window,
@@ -2949,19 +2949,19 @@ var menah = {};
                           (yareliz.clientY - killis['clientY']) *
                             (yareliz.clientY - killis.clientY)
                       );
-                      (!jsamine['mm_md'] || deniko > jsamine['mm_md']) &&
-                        (jsamine.mm_md = parseInt(deniko)),
+                      (!jsData['mm_md'] || deniko > jsData['mm_md']) &&
+                        (jsData.mm_md = parseInt(deniko)),
                         (killis = yareliz);
                     }
                   } else killis = yareliz;
                   try {
-                    (jsamine['mp_cx'] = chiqueta['clientX']),
-                      (jsamine['mp_cy'] = chiqueta['clientY']),
-                      (jsamine['mp_tr'] = chiqueta['isTrusted']),
-                      (jsamine.mp_mx = chiqueta.movementX),
-                      (jsamine.mp_my = chiqueta.movementY),
-                      (jsamine.mp_sx = chiqueta.screenX),
-                      (jsamine['mp_sy'] = chiqueta['screenY']);
+                    (jsData['mp_cx'] = chiqueta['clientX']),
+                      (jsData['mp_cy'] = chiqueta['clientY']),
+                      (jsData['mp_tr'] = chiqueta['isTrusted']),
+                      (jsData.mp_mx = chiqueta.movementX),
+                      (jsData.mp_my = chiqueta.movementY),
+                      (jsData.mp_sx = chiqueta.screenX),
+                      (jsData['mp_sy'] = chiqueta['screenY']);
                   } catch (zarihanna) {}
                 }),
                 (this.getInfoClick = function (govanni) {
@@ -2971,10 +2971,10 @@ var menah = {};
                       (lamiyah['parentElement'] &&
                         lamiyah.parentElement.href &&
                         lamiyah.parentElement.href.indexOf('alb.reddit') > -1)) &&
-                      (govanni.isTrusted || (jsamine['haent'] = true),
-                      jsamine.nclad
-                        ? jsamine['nclad']++
-                        : (jsamine.nclad = 1),
+                      (govanni.isTrusted || (jsData['haent'] = true),
+                      jsData.nclad
+                        ? jsData['nclad']++
+                        : (jsData.nclad = 1),
                       tuuli("asyncChallengeFinished"));
                   } catch (alyssah) {}
                 }),
@@ -2983,13 +2983,13 @@ var menah = {};
                   document.dispatchEvent = function (mareme) {
                     return (
                       0 == mareme.type.indexOf("web-scraper-callback") &&
-                        (jsamine['ewsi'] = true),
+                        (jsData['ewsi'] = true),
                       darniesha.call(document, mareme)
                     );
                   };
                 }),
                 (this['dd_af'] = function () {
-                  jsamine['uid'] = this.dataDomeTools.getCookie(
+                  jsData['uid'] = this.dataDomeTools.getCookie(
                     'correlation_id'
                   );
                 }),
@@ -3006,10 +3006,10 @@ var menah = {};
                       (lilton = lilton.concat(rishika, "/", sundee[baneen])),
                       function (radames) {
                         radames
-                          ? true !== jsamine.wwsi &&
-                            ((jsamine.wwsi = true),
+                          ? true !== jsData.wwsi &&
+                            ((jsData.wwsi = true),
                             tuuli("asyncChallengeFinished"))
-                          : (jsamine.wwsi = false);
+                          : (jsData.wwsi = false);
                       }
                     );
                   }
@@ -3027,7 +3027,7 @@ var menah = {};
             (this['jsType'] = yannira),
               (this['requestApi'] = function (
                 mateus,
-                tunisia,
+                tunisia, // jsData
                 sirryan,
                 kendel,
                 vy,
@@ -3045,7 +3045,7 @@ var menah = {};
                   var savian = {};
                   savian.type = "application/x-www-form-urlencoded";
                   var domonica = this.getQueryParamsString(
-                      tunisia,
+                      tunisia, //jsData
                       sirryan,
                       mateus,
                       kendel,
@@ -3070,7 +3070,7 @@ var menah = {};
                       carrera.open("POST", window.dataDomeOptions.endpoint, vy),
                         carrera.setRequestHeader("Content-type", 'application/x-www-form-urlencoded');
                       var maevry = this.getQueryParamsString(
-                        tunisia,
+                        tunisia, // jsData
                         sirryan,
                         mateus,
                         kendel,
@@ -3156,7 +3156,7 @@ var menah = {};
                 }
               }),
               (this.getQueryParamsString = function (
-                daleon,
+                daleon, // jsData
                 layker,
                 aarilyn,
                 ladejah,
@@ -3262,7 +3262,7 @@ var menah = {};
                     (naomia = naomia['slice'](0, 200) + "..."),
                   (daleon.plos = naomia),
                   this['getQueryParamsString'](
-                    daleon,
+                    daleon, // jsData
                     layker,
                     aarilyn,
                     ladejah,
@@ -3664,7 +3664,7 @@ var menah = {};
                   window['dataDomeOptions'] &&
                     dionca['requestApi'](
                       window.ddjskey,
-                      login,
+                      login, // jsData
                       [],
                       window['dataDomeOptions']['patternToRemoveFromReferrerUrl'],
                       true,
@@ -3858,7 +3858,7 @@ var menah = {};
                 for (var isalia in monisha) breaunna[isalia] = monisha[isalia];
                 tyson['requestApi'](
                   window.ddjskey,
-                  breaunna,
+                  breaunna, // jsData
                   suzannah,
                   window.dataDomeOptions['patternToRemoveFromReferrerUrl'],
                   vernese,
@@ -3969,7 +3969,7 @@ var menah = {};
                   window.dataDomeOptions &&
                     alexondra.requestApi(
                       window['ddjskey'],
-                      iroha,
+                      iroha, // jsData
                       [],
                       window['dataDomeOptions']['patternToRemoveFromReferrerUrl'],
                       true,
